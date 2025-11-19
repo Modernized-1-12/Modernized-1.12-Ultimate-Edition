@@ -15,7 +15,6 @@ usercache.json
 /mods/memory_repo
 /mods/.index
 config/jei/worldSettings.cfg
-mods/*.disabled-by-mod-director
 /classOut
 /mods/1.12.2
 mputils/settings.dat
