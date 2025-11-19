@@ -1,8 +1,8 @@
 {
-  "forge-1.12.2-14.23.5.2860.jar (modloader)": {
-    "jarName": "forge-1.12.2-14.23.5.2860.jar (modloader)",
+  "universal.jar (modloader)": {
+    "jarName": "universal.jar (modloader)",
     "modId": "forge",
-    "version": "forge-1.12.2-14.23.5.2860.jar"
+    "version": "universal.jar"
   },
   "!!!CrashAssistant-forge-1.12.2-1.10.19.jar": {
     "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.19.jar",
@@ -13,6 +13,11 @@
     "jarName": "!configanytime-3.0.jar",
     "modId": "configanytime",
     "version": "3.0"
+  },
+  "!improved-relauncher-0.3.6.jar": {
+    "jarName": "!improved-relauncher-0.3.6.jar",
+    "modId": "improved-relauncher",
+    "version": "0.3.6"
   },
   "!mixinbooter-10.7.jar": {
     "jarName": "!mixinbooter-10.7.jar",
@@ -148,6 +153,11 @@
     "modId": "bettermineshafts",
     "version": "1.12.2-2.2.1"
   },
+  "BetterStronghold -0.1.jar": {
+    "jarName": "BetterStronghold -0.1.jar",
+    "modId": "bt",
+    "version": "${version}"
+  },
   "BetterWaterSplash-1.0.jar": {
     "jarName": "BetterWaterSplash-1.0.jar",
     "modId": "BetterWaterSplash",
@@ -272,6 +282,11 @@
     "jarName": "elegant-networking-1.12-3.16.jar",
     "modId": "elegant_networking",
     "version": "3.16"
+  },
+  "elementalend-1.0.1.jar": {
+    "jarName": "elementalend-1.0.1.jar",
+    "modId": "elementalend",
+    "version": "1.0.1"
   },
   "EnchantmentDescriptions-1.12.2-1.1.20.jar": {
     "jarName": "EnchantmentDescriptions-1.12.2-1.1.20.jar",
@@ -515,10 +530,10 @@
     "modId": "naughthirium",
     "version": "2.3.0"
   },
-  "Nether-API-v1.3.0-mc1.12.2.jar": {
-    "jarName": "Nether-API-v1.3.0-mc1.12.2.jar",
+  "Nether-API-v1.4.2-mc1.12.2.jar": {
+    "jarName": "Nether-API-v1.4.2-mc1.12.2.jar",
     "modId": "nether_api",
-    "version": "v1.3.0-mc1.12.2"
+    "version": "1.4.2"
   },
   "neverenoughanimations-1.0.6.jar": {
     "jarName": "neverenoughanimations-1.0.6.jar",
@@ -731,6 +746,11 @@
     "jarName": "UniversalTweaks-1.12.2-1.17.0.jar",
     "modId": "universaltweaks",
     "version": "1.17.0"
+  },
+  "Unseens Nether Backport - 0.6.jar": {
+    "jarName": "Unseens Nether Backport - 0.6.jar",
+    "modId": "nb",
+    "version": "1.12.2-0.0.6"
   },
   "vanillaanvilrepair-1.1.jar": {
     "jarName": "vanillaanvilrepair-1.1.jar",
