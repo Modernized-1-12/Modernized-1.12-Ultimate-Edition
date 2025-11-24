@@ -198,6 +198,16 @@
     "modId": "cherishedworlds",
     "version": "1.12.2-1.0.1"
   },
+  "Chisel-MC1.12.2-1.0.2.45.jar": {
+    "jarName": "Chisel-MC1.12.2-1.0.2.45.jar",
+    "modId": "chisel",
+    "version": "MC1.12.2-1.0.2.45"
+  },
+  "chiselsandbits-14.33.jar": {
+    "jarName": "chiselsandbits-14.33.jar",
+    "modId": "chiselsandbits",
+    "version": "14.33"
+  },
   "ChunkAnimator-1.12.2-1.2.1.jar": {
     "jarName": "ChunkAnimator-1.12.2-1.2.1.jar",
     "modId": "chunkanimator",
@@ -257,6 +267,11 @@
     "jarName": "DefaultOptions_1.12.2-9.2.8.jar",
     "modId": "defaultoptions",
     "version": "9.2.8"
+  },
+  "demagnetize-1.12.2-1.1.2.jar": {
+    "jarName": "demagnetize-1.12.2-1.1.2.jar",
+    "modId": "demagnetize",
+    "version": "1.12.2-1.1.2"
   },
   "dropt-1.12.2-1.19.4.jar": {
     "jarName": "dropt-1.12.2-1.19.4.jar",
@@ -564,6 +579,11 @@
     "jarName": "NoiseThreader-1.1.1.jar",
     "modId": "noisethreader",
     "version": "1.1.1"
+  },
+  "NotEnoughPets-1.12.2-2.4.1.jar": {
+    "jarName": "NotEnoughPets-1.12.2-2.4.1.jar",
+    "modId": "notenoughpets",
+    "version": ""
   },
   "Nothirium-1.12.2-0.4.8-beta.jar": {
     "jarName": "Nothirium-1.12.2-0.4.8-beta.jar",
