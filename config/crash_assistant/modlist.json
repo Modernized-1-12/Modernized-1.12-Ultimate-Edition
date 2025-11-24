@@ -378,6 +378,11 @@
     "modId": "jei",
     "version": "4.29.11"
   },
+  "HappyGhast-1.12.2-1.0.14.jar": {
+    "jarName": "HappyGhast-1.12.2-1.0.14.jar",
+    "modId": "suikehappyghast",
+    "version": "1.0.14"
+  },
   "HarkenScytheResharpened-1.12.2-1.5.1.jar": {
     "jarName": "HarkenScytheResharpened-1.12.2-1.5.1.jar",
     "modId": "harkenscythe",
@@ -726,6 +731,11 @@
     "jarName": "TP+-1.12.2-1.0.1.1.jar",
     "modId": "tpp",
     "version": "1.12.2-1.0.1.1"
+  },
+  "Traders-Backport-1.12.2-1.0.1.jar": {
+    "jarName": "Traders-Backport-1.12.2-1.0.1.jar",
+    "modId": "traders",
+    "version": "1.0.1"
   },
   "UniversalTweaks-1.12.2-1.17.0.jar": {
     "jarName": "UniversalTweaks-1.12.2-1.17.0.jar",
