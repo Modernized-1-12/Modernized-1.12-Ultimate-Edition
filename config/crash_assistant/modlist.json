@@ -767,6 +767,11 @@
     "modId": "vintagefix",
     "version": "0.6.2"
   },
+  "Waystones_1.12.2-4.1.0.jar": {
+    "jarName": "Waystones_1.12.2-4.1.0.jar",
+    "modId": "waystones",
+    "version": "4.1.0"
+  },
   "Wither-Config-1.2.1.jar": {
     "jarName": "Wither-Config-1.2.1.jar",
     "modId": "witherconfig",
