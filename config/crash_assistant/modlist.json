@@ -530,6 +530,11 @@
     "modId": "mtlib",
     "version": "3.0.7"
   },
+  "NaturesCompass-1.12.2-1.8.5.jar": {
+    "jarName": "NaturesCompass-1.12.2-1.8.5.jar",
+    "modId": "naturescompass",
+    "version": "1.12.2-1.8.5"
+  },
   "naughthirium-2.3.0.jar": {
     "jarName": "naughthirium-2.3.0.jar",
     "modId": "naughthirium",
@@ -756,6 +761,11 @@
     "jarName": "Unseens Nether Backport - 0.6.jar",
     "modId": "nb",
     "version": "1.12.2-0.0.6"
+  },
+  "vaultopic-2.2.jar": {
+    "jarName": "vaultopic-2.2.jar",
+    "modId": "vaultopic",
+    "version": "2.2"
   },
   "VillageNames-1.12.2-4.4.13.jar": {
     "jarName": "VillageNames-1.12.2-4.4.13.jar",
