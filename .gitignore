@@ -32,3 +32,5 @@ mods/OptiFine_1.12.2_HD_U_G6_pre1.jar
 /voxelmap/cache
 /emojicord/cache
 /llibrary
+/journeymap/data
+journeymap/journeymap.log
