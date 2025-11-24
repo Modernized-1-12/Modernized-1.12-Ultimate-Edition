@@ -333,6 +333,11 @@
     "modId": "forgelin_continuous",
     "version": "2.1.20.0"
   },
+  "FoxFriend-1.12.2-1.0.7.jar": {
+    "jarName": "FoxFriend-1.12.2-1.0.7.jar",
+    "modId": "suikefoxfriend",
+    "version": "1.0.7"
+  },
   "FpsReducer-mc1.12.2-1.20.jar": {
     "jarName": "FpsReducer-mc1.12.2-1.20.jar",
     "modId": "fpsreducer",
