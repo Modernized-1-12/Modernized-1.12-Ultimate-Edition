@@ -83,6 +83,11 @@
     "modId": "aquaacrobatics",
     "version": "1.15.4"
   },
+  "architecturecraft-3.109.jar": {
+    "jarName": "architecturecraft-3.109.jar",
+    "modId": "architecturecraft",
+    "version": "@VERSION@"
+  },
   "arrowharvest-1.12.2-1.0.3.jar": {
     "jarName": "arrowharvest-1.12.2-1.0.3.jar",
     "modId": "arrowharvest",
