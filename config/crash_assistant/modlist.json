@@ -393,6 +393,11 @@
     "modId": "highlighter",
     "version": "1.1.7"
   },
+  "hooked-1.0.3.jar": {
+    "jarName": "hooked-1.0.3.jar",
+    "modId": "hooked",
+    "version": "1.0.2"
+  },
   "HungerTweaker-1.12.2-1.3.0.jar": {
     "jarName": "HungerTweaker-1.12.2-1.3.0.jar",
     "modId": "hungertweaker",
@@ -462,6 +467,11 @@
     "jarName": "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
     "modId": "konkrete",
     "version": "1.6.1"
+  },
+  "LibrarianLib-Continuous-1.12.2-4.22-2.0-3.jar": {
+    "jarName": "LibrarianLib-Continuous-1.12.2-4.22-2.0-3.jar",
+    "modId": "librarianlib",
+    "version": "4.22-2.0-3"
   },
   "llibrary-1.7.20-1.12.2.jar": {
     "jarName": "llibrary-1.7.20-1.12.2.jar",
