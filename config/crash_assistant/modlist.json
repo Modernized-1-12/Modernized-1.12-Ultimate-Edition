@@ -473,6 +473,11 @@
     "modId": "jade",
     "version": "0.1.0"
   },
+  "JEI-Utilities-1.12.2-0.2.13.jar": {
+    "jarName": "JEI-Utilities-1.12.2-0.2.13.jar",
+    "modId": "jeiutilities",
+    "version": "0.2.13"
+  },
   "jepb-1.12-1.2.1.jar": {
     "jarName": "jepb-1.12-1.2.1.jar",
     "modId": "jepb",
@@ -826,6 +831,10 @@
     "jarName": "Waystones_1.12.2-4.1.0.jar",
     "modId": "waystones",
     "version": "4.1.0"
+  },
+  "Well-Mod-v1.0.1-mc1.12.2.jar": {
+    "jarName": "Well-Mod-v1.0.1-mc1.12.2.jar",
+    "modId": "well"
   },
   "Wither-Config-1.2.1.jar": {
     "jarName": "Wither-Config-1.2.1.jar",
