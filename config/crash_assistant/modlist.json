@@ -188,6 +188,11 @@
     "modId": "carryon",
     "version": "1.12.3"
   },
+  "Chameleon-1.12-4.1.3.jar": {
+    "jarName": "Chameleon-1.12-4.1.3.jar",
+    "modId": "chameleon",
+    "version": "1.12-4.1.3"
+  },
   "ChatFlow-1.4-7.jar": {
     "jarName": "ChatFlow-1.4-7.jar",
     "modId": "chatflow",
@@ -357,6 +362,11 @@
     "jarName": "FpsReducer-mc1.12.2-1.20.jar",
     "modId": "fpsreducer",
     "version": "mc1.12.2-1.20"
+  },
+  "framedcompactdrawers-1.2.7.jar": {
+    "jarName": "framedcompactdrawers-1.2.7.jar",
+    "modId": "framedcompactdrawers",
+    "version": "1.2.7"
   },
   "FullscreenWindowed-1.12-1.6.0.jar": {
     "jarName": "FullscreenWindowed-1.12-1.6.0.jar",
@@ -746,6 +756,11 @@
     "jarName": "StellarCore-1.5.22.jar",
     "modId": "stellar_core",
     "version": "1.5.22"
+  },
+  "StorageDrawers-1.12.2-5.5.3.jar": {
+    "jarName": "StorageDrawers-1.12.2-5.5.3.jar",
+    "modId": "storagedrawers",
+    "version": "5.5.3"
   },
   "StuffASockInIt-1.12.2-1.1.32.jar": {
     "jarName": "StuffASockInIt-1.12.2-1.1.32.jar",
