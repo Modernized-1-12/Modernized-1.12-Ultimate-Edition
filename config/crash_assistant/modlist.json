@@ -784,10 +784,10 @@
     "modId": "smoothfont",
     "version": "mc1.12.2-2.1.4"
   },
-  "SoundFilters-0.12.1_for_1.12.jar": {
-    "jarName": "SoundFilters-0.12.1_for_1.12.jar",
+  "SoundFilters-0.14.0_for_1.12.jar": {
+    "jarName": "SoundFilters-0.14.0_for_1.12.jar",
     "modId": "soundfilters",
-    "version": "0.12.1_for_1.12"
+    "version": "0.13.0_for_1.12"
   },
   "soundreloader-1.2-1.12.2.jar": {
     "jarName": "soundreloader-1.2-1.12.2.jar",
