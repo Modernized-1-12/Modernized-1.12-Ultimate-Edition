@@ -403,6 +403,11 @@
     "modId": "framedcompactdrawers",
     "version": "1.2.7"
   },
+  "ftb-ultimine-1202.3.5.jar": {
+    "jarName": "ftb-ultimine-1202.3.5.jar",
+    "modId": "ftbultimine",
+    "version": "1202.3.5"
+  },
   "FullscreenWindowed-1.12-1.6.0.jar": {
     "jarName": "FullscreenWindowed-1.12-1.6.0.jar",
     "modId": "fw",
