@@ -338,6 +338,11 @@
     "modId": "entityculling",
     "version": "6.5.0"
   },
+  "esm-legacy-1.12.2-1.0.5.jar": {
+    "jarName": "esm-legacy-1.12.2-1.0.5.jar",
+    "modId": "extremesoundmuffler",
+    "version": "1.0.5"
+  },
   "extendedbonemeal_1.12.2-1.3.jar": {
     "jarName": "extendedbonemeal_1.12.2-1.3.jar",
     "modId": "extendedbonemeal",
