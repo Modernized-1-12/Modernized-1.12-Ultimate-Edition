@@ -50,6 +50,21 @@
     "modId": "fermiumbooter",
     "version": "1.4.1"
   },
+  "ae2-uel-v0.56.7.jar": {
+    "jarName": "ae2-uel-v0.56.7.jar",
+    "modId": "appliedenergistics2",
+    "version": "v0.56.7"
+  },
+  "AE2CT-Legacy-0.1.2.jar": {
+    "jarName": "AE2CT-Legacy-0.1.2.jar",
+    "modId": "ae2ctl",
+    "version": "0.1.0"
+  },
+  "ae2stuff-1.12.2-0.10.jar": {
+    "jarName": "ae2stuff-1.12.2-0.10.jar",
+    "modId": "ae2stuff",
+    "version": "0.10"
+  },
   "AIReducer-1.12.2-0.3.0.jar": {
     "jarName": "AIReducer-1.12.2-0.3.0.jar",
     "modId": "aireducer",
@@ -117,6 +132,11 @@
     "jarName": "base-1.12.2-3.14.0.jar",
     "modId": "base",
     "version": "1.12.2-3.14.0"
+  },
+  "bdlib-1.14.4.1-mc1.12.2.jar": {
+    "jarName": "bdlib-1.14.4.1-mc1.12.2.jar",
+    "modId": "bdlib",
+    "version": "1.14.4.1"
   },
   "beautifiedchatclient_1.12.2-1.0.jar": {
     "jarName": "beautifiedchatclient_1.12.2-1.0.jar",
@@ -342,6 +362,11 @@
     "jarName": "Fixeroo-2.3.6.jar",
     "modId": "xporbclump",
     "version": "2.3.6"
+  },
+  "Fluid Craft for AE2-2.6.6-r.jar": {
+    "jarName": "Fluid Craft for AE2-2.6.6-r.jar",
+    "modId": "ae2fc",
+    "version": "2.6.6-r"
   },
   "fluxloading-1.3.7.jar": {
     "jarName": "fluxloading-1.3.7.jar",
@@ -570,6 +595,11 @@
     "modId": "mtlib",
     "version": "3.0.7"
   },
+  "nae2-1.6.4.jar": {
+    "jarName": "nae2-1.6.4.jar",
+    "modId": "nae2",
+    "version": "1.6.4"
+  },
   "NaturesCompass-1.12.2-1.8.5.jar": {
     "jarName": "NaturesCompass-1.12.2-1.8.5.jar",
     "modId": "naturescompass",
@@ -666,6 +696,11 @@
     "modId": "raids",
     "version": "1.1.4c"
   },
+  "random_complement-1.8.1.jar": {
+    "jarName": "random_complement-1.8.1.jar",
+    "modId": "random_complement",
+    "version": "1.8.1"
+  },
   "RandomTweaker-1.4.9.jar": {
     "jarName": "RandomTweaker-1.4.9.jar",
     "modId": "randomtweaker",
@@ -720,6 +755,11 @@
     "jarName": "RoughlyEnoughIDs-2.2.3.jar",
     "modId": "jeid",
     "version": "2.2.3"
+  },
+  "Scalar Legacy-1.0.1.jar": {
+    "jarName": "Scalar Legacy-1.0.1.jar",
+    "modId": "scalar",
+    "version": "1.0.0"
   },
   "scalar-3.7.2.jar": {
     "jarName": "scalar-3.7.2.jar",
