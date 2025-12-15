@@ -813,6 +813,20 @@
     "curseForgeHash": 3448861526,
     "modrinthHash": "bb4077cd098e3c179dec443b42bcc52d58228895"
   },
+  "Mekanism-CE-Unofficial-All-9.9.2.234.jar": {
+    "jarName": "Mekanism-CE-Unofficial-All-9.9.2.234.jar",
+    "modId": "mekanism",
+    "version": "9.9.2.234",
+    "curseForgeHash": 1701247811,
+    "modrinthHash": "7c5028b04e309b4d7093e87bdcf99804a2400f33"
+  },
+  "MekanismEnergistics-0.1.5.jar": {
+    "jarName": "MekanismEnergistics-0.1.5.jar",
+    "modId": "mekeng",
+    "version": "0.1.5",
+    "curseForgeHash": 1513161002,
+    "modrinthHash": "6967e5cc8b65d9ca06921e4da8428b447a10993e"
+  },
   "mimicfish-1.2.jar": {
     "jarName": "mimicfish-1.2.jar",
     "modId": "mimicfish",
@@ -957,6 +971,20 @@
     "version": "2.0.0",
     "curseForgeHash": 4081764812,
     "modrinthHash": "e3c166056568e6ca20264f03aa34f5b3ef00268d"
+  },
+  "Patchouli-1.0-28.jar": {
+    "jarName": "Patchouli-1.0-28.jar",
+    "modId": "patchouli",
+    "version": "1.0-28",
+    "curseForgeHash": 3667517947,
+    "modrinthHash": "28debe44cc06685ca9274cd38441c933ed53836e"
+  },
+  "patchoulibooks-0.2.7.jar": {
+    "jarName": "patchoulibooks-0.2.7.jar",
+    "modId": "patchoulibooks",
+    "version": "0.2.7-indev",
+    "curseForgeHash": 763714012,
+    "modrinthHash": "25e1749b1499c1c9c31cc2aef29378975e58f279"
   },
   "PerformanceMonitoringEnhancer1.12.2-1.1.1.jar": {
     "jarName": "PerformanceMonitoringEnhancer1.12.2-1.1.1.jar",
