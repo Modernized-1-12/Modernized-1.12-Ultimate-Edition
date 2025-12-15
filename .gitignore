@@ -37,3 +37,4 @@ journeymap/journeymap.log
 config/normalasm/methods-stable_39.csv
 config/chiselsandbits_clipboard.cfg
 /ESM
+config/spark/activity.json
