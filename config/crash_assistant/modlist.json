@@ -690,12 +690,12 @@
     "curseForgeHash": 637705220,
     "modrinthHash": "7280d5c0dab42436549bcefc63ff64a1049e5501"
   },
-  "Ice and Fire-2.1.7.jar": {
-    "jarName": "Ice and Fire-2.1.7.jar",
+  "Ice and Fire-2.1.11.jar": {
+    "jarName": "Ice and Fire-2.1.11.jar",
     "modId": "iceandfire",
-    "version": "2.1.7",
-    "curseForgeHash": 4080783450,
-    "modrinthHash": "f10838e83ee51c3e133f892634100530b1d9beb5"
+    "version": "2.1.11",
+    "curseForgeHash": 863479321,
+    "modrinthHash": "fb3f06169fc45970af9d37b5eb9e2b9f1da13c32"
   },
   "ImmersiveCombat-12-13-25.jar": {
     "jarName": "ImmersiveCombat-12-13-25.jar",
@@ -1005,12 +1005,12 @@
     "curseForgeHash": 1292477883,
     "modrinthHash": "e1a0cd450ee7dee9f9ba5f5b88c5c29a894ab930"
   },
-  "random_complement-1.8.1.jar": {
-    "jarName": "random_complement-1.8.1.jar",
+  "random_complement-1.8.5.jar": {
+    "jarName": "random_complement-1.8.5.jar",
     "modId": "random_complement",
-    "version": "1.8.1",
-    "curseForgeHash": 511943349,
-    "modrinthHash": "d68a2d18b8651c65f8c82d506c89719b2633f9ab"
+    "version": "1.8.5",
+    "curseForgeHash": 846746612,
+    "modrinthHash": "82bbb3f5ebba6df139f4f39cd86ba2d89839416d"
   },
   "RandomTweaker-1.4.9.jar": {
     "jarName": "RandomTweaker-1.4.9.jar",
@@ -1039,6 +1039,13 @@
     "version": "4.0.7",
     "curseForgeHash": 2194555961,
     "modrinthHash": "faf758374f9ada273155f43d451829d8ec4c4bf0"
+  },
+  "rebind-1.12.2-2.7.5-0.jar": {
+    "jarName": "rebind-1.12.2-2.7.5-0.jar",
+    "modId": "rebind",
+    "version": "2.7.5",
+    "curseForgeHash": 2082043449,
+    "modrinthHash": "89a789e7af4bdb3b8120c5c3efc6a7f30779b7fb"
   },
   "RenderLib-1.12.2-1.4.5.jar": {
     "jarName": "RenderLib-1.12.2-1.4.5.jar",
