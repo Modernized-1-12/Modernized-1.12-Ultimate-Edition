@@ -3396,12 +3396,6 @@ appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
 appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
 appliedenergistics2:facade:0, Cable Facade - Glowcelium
 appliedenergistics2:facade:0, Cable Facade - Glowshroom
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -3430,6 +3424,12 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
@@ -6250,6 +6250,23 @@ alchemistry:ingot:117, Tennessine Ingot
 alchemistry:ingot:118, Oganesson Ingot
 alchemistry:periodic_table, Periodic Table
 baubles:max_verstappen, Max Verstappen
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -6372,103 +6389,7 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:leaf_carpet:6, Swamp Oak Leaf Carpet
-quark:leaf_carpet:7, Blossoming Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:grate, tile.grate.name
-quark:charcoal_block, tile.charcoal_block.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:tiny_potato, tile.tiny_potato.name
 quark:witch_hat, item.witch_hat.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
 quark:arrow_torch, item.arrow_torch.name
@@ -6500,23 +6421,6 @@ quark:parrot_egg:2, Green Parrot Egg
 quark:parrot_egg:3, Cyan Parrot Egg
 quark:parrot_egg:4, Gray Parrot Egg
 quark:enderdragon_scale, item.enderdragon_scale.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -6837,6 +6741,102 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
+quark:tiny_potato, tile.tiny_potato.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:leaf_carpet:6, Swamp Oak Leaf Carpet
+quark:leaf_carpet:7, Blossoming Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:grate, tile.grate.name
+quark:charcoal_block, tile.charcoal_block.name
+quark:glass_item_frame, item.glass_item_frame.name
 chisel:auto_chisel, Auto Chisel
 chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
@@ -7050,67 +7050,6 @@ deeperdepths:mace, Mace
 deeperdepths:trial_chambers_painting, Trial Chambers Painting
 demagnetize:demagnetizer, Demagnetizer
 demagnetize:demagnetizer_advanced, Advanced Demagnetizer
-mocreatures:deep_wyvstone_button, Deep Wyvstone Button [NYI]
-mocreatures:wyvstone_button, Wyvstone Button
-mocreatures:wyvwood_button, Wyvwood Button
-mocreatures:wyvdirt, Wyvdirt
-mocreatures:wyvwood_fence_gate, Wyvwood Fence Gate
-mocreatures:wyvwood_fence, Wyvwood Fence
-mocreatures:firestone, Firestone [NYI]
-mocreatures:gleaming_glass, Gleaming Glass
-mocreatures:wyvgrass, Wyvgrass Block
-mocreatures:wyvwood_leaves, Wyvwood Leaves
-mocreatures:wyvwood_log, Wyvwood Log
-mocreatures:ancient_silver_block, Block of Ancient Silver
-mocreatures:fine_silver_block, Block of Fine Silver
-mocreatures:wyvern_nest_block, Wyvern Nest Block [NYI]
-mocreatures:ancient_ore, Ancient Ore [NYI]
-mocreatures:wyvern_diamond_ore, Wyvern Diamond Ore [NYI]
-mocreatures:wyvern_emerald_ore, Wyvern Emerald Ore [NYI]
-mocreatures:wyvern_gold_ore, Wyvern Gold Ore [NYI]
-mocreatures:wyvern_iron_ore, Wyvern Iron Ore [NYI]
-mocreatures:wyvern_lapis_ore, Wyvern Lapis Lazuli Ore [NYI]
-mocreatures:gleaming_glass_pane, Gleaming Glass Pane
-mocreatures:wyvwood_planks, Wyvwood Planks
-mocreatures:deep_wyvstone_pressure_plate, Deep Wyvstone Pressure Plate [NYI]
-mocreatures:wyvstone_pressure_plate, Wyvstone Pressure Plate
-mocreatures:wyvwood_pressure_plate, Wyvwood Pressure Plate
-mocreatures:carved_silver_sandstone, Chiseled Silver Sandstone
-mocreatures:silver_sandstone, Silver Sandstone
-mocreatures:smooth_silver_sandstone, Cut Silver Sandstone
-mocreatures:cobbled_deep_wyvstone, Cobbled Deep Wyvstone [NYI]
-mocreatures:cobbled_wyvstone, Cobbled Wyvstone
-mocreatures:deep_wyvstone, Deep Wyvstone [NYI]
-mocreatures:mossy_cobbled_deep_wyvstone, Mossy Cobbled Deep Wyvstone [NYI]
-mocreatures:mossy_cobbled_wyvstone, Mossy Cobbled Wyvstone
-mocreatures:wyvstone, Wyvstone
-mocreatures:silver_sand, Silver Sand
-mocreatures:wyvwood_sapling, Wyvwood Sapling
-mocreatures:wyvwood_stairs, Wyvwood Stairs
-mocreatures:silver_sandstone_stairs, Silver Sandstone Stairs
-mocreatures:cobbled_deep_wyvstone_stairs, Cobbled Deep Wyvstone Stairs [NYI]
-mocreatures:cobbled_wyvstone_stairs, Cobbled Wyvstone Stairs
-mocreatures:deep_wyvstone_stairs, Deep Wyvstone Stairs [NYI]
-mocreatures:mossy_cobbled_deep_wyvstone_stairs, Mossy Cobbled Deep Wyvstone Stairs [NYI]
-mocreatures:mossy_cobbled_wyvstone_stairs, Mossy Cobbled Wyvstone Stairs
-mocreatures:wyvstone_stairs, Wyvstone Stairs
-mocreatures:tall_wyvgrass, Wyvgrass
-mocreatures:wyvwood_trapdoor, Wyvwood Trapdoor
-mocreatures:silver_sandstone_wall, Silver Sandstone Wall
-mocreatures:cobbled_deep_wyvstone_wall, Cobbled Deep Wyvstone Wall [NYI]
-mocreatures:cobbled_wyvstone_wall, Cobbled Wyvstone Wall
-mocreatures:deep_wyvstone_wall, Deep Wyvstone Wall [NYI]
-mocreatures:mossy_cobbled_deep_wyvstone_wall, Mossy Cobbled Deep Wyvstone Wall [NYI]
-mocreatures:mossy_cobbled_wyvstone_wall, Mossy Cobbled Wyvstone Wall
-mocreatures:wyvstone_wall, Wyvstone Wall
-mocreatures:silver_sandstone_slab:0, Silver Sandstone Slab
-mocreatures:cobbled_deep_wyvstone_slab:0, Cobbled Deep Wyvstone Slab [NYI]
-mocreatures:cobbled_wyvstone_slab:0, Cobbled Wyvstone Slab
-mocreatures:deep_wyvstone_slab:0, Deep Wyvstone Slab [NYI]
-mocreatures:mossy_cobbled_deep_wyvstone_slab:0, Mossy Cobbled Deep Wyvstone Slab [NYI]
-mocreatures:mossy_cobbled_wyvstone_slab:0, Mossy Cobbled Wyvstone Slab
-mocreatures:wyvstone_slab:0, Wyvstone Slab
-mocreatures:wyvwood_slab:0, Wyvwood Slab
 mocreatures:kittybed_white, White Kitty Bed
 mocreatures:kittybed_orange, Orange Kitty Bed
 mocreatures:kittybed_magenta, Magenta Kitty Bed
@@ -7330,6 +7269,67 @@ mocreatures:scrollofsale, Scroll of Sale
 mocreatures:scrollofrenaming, Scroll of Renaming
 mocreatures:crabraw, Raw Crab
 mocreatures:crabcooked, Cooked Crab
+mocreatures:deep_wyvstone_button, Deep Wyvstone Button [NYI]
+mocreatures:wyvstone_button, Wyvstone Button
+mocreatures:wyvwood_button, Wyvwood Button
+mocreatures:wyvdirt, Wyvdirt
+mocreatures:wyvwood_fence_gate, Wyvwood Fence Gate
+mocreatures:wyvwood_fence, Wyvwood Fence
+mocreatures:firestone, Firestone [NYI]
+mocreatures:gleaming_glass, Gleaming Glass
+mocreatures:wyvgrass, Wyvgrass Block
+mocreatures:wyvwood_leaves, Wyvwood Leaves
+mocreatures:wyvwood_log, Wyvwood Log
+mocreatures:ancient_silver_block, Block of Ancient Silver
+mocreatures:fine_silver_block, Block of Fine Silver
+mocreatures:wyvern_nest_block, Wyvern Nest Block [NYI]
+mocreatures:ancient_ore, Ancient Ore [NYI]
+mocreatures:wyvern_diamond_ore, Wyvern Diamond Ore [NYI]
+mocreatures:wyvern_emerald_ore, Wyvern Emerald Ore [NYI]
+mocreatures:wyvern_gold_ore, Wyvern Gold Ore [NYI]
+mocreatures:wyvern_iron_ore, Wyvern Iron Ore [NYI]
+mocreatures:wyvern_lapis_ore, Wyvern Lapis Lazuli Ore [NYI]
+mocreatures:gleaming_glass_pane, Gleaming Glass Pane
+mocreatures:wyvwood_planks, Wyvwood Planks
+mocreatures:deep_wyvstone_pressure_plate, Deep Wyvstone Pressure Plate [NYI]
+mocreatures:wyvstone_pressure_plate, Wyvstone Pressure Plate
+mocreatures:wyvwood_pressure_plate, Wyvwood Pressure Plate
+mocreatures:carved_silver_sandstone, Chiseled Silver Sandstone
+mocreatures:silver_sandstone, Silver Sandstone
+mocreatures:smooth_silver_sandstone, Cut Silver Sandstone
+mocreatures:cobbled_deep_wyvstone, Cobbled Deep Wyvstone [NYI]
+mocreatures:cobbled_wyvstone, Cobbled Wyvstone
+mocreatures:deep_wyvstone, Deep Wyvstone [NYI]
+mocreatures:mossy_cobbled_deep_wyvstone, Mossy Cobbled Deep Wyvstone [NYI]
+mocreatures:mossy_cobbled_wyvstone, Mossy Cobbled Wyvstone
+mocreatures:wyvstone, Wyvstone
+mocreatures:silver_sand, Silver Sand
+mocreatures:wyvwood_sapling, Wyvwood Sapling
+mocreatures:wyvwood_stairs, Wyvwood Stairs
+mocreatures:silver_sandstone_stairs, Silver Sandstone Stairs
+mocreatures:cobbled_deep_wyvstone_stairs, Cobbled Deep Wyvstone Stairs [NYI]
+mocreatures:cobbled_wyvstone_stairs, Cobbled Wyvstone Stairs
+mocreatures:deep_wyvstone_stairs, Deep Wyvstone Stairs [NYI]
+mocreatures:mossy_cobbled_deep_wyvstone_stairs, Mossy Cobbled Deep Wyvstone Stairs [NYI]
+mocreatures:mossy_cobbled_wyvstone_stairs, Mossy Cobbled Wyvstone Stairs
+mocreatures:wyvstone_stairs, Wyvstone Stairs
+mocreatures:tall_wyvgrass, Wyvgrass
+mocreatures:wyvwood_trapdoor, Wyvwood Trapdoor
+mocreatures:silver_sandstone_wall, Silver Sandstone Wall
+mocreatures:cobbled_deep_wyvstone_wall, Cobbled Deep Wyvstone Wall [NYI]
+mocreatures:cobbled_wyvstone_wall, Cobbled Wyvstone Wall
+mocreatures:deep_wyvstone_wall, Deep Wyvstone Wall [NYI]
+mocreatures:mossy_cobbled_deep_wyvstone_wall, Mossy Cobbled Deep Wyvstone Wall [NYI]
+mocreatures:mossy_cobbled_wyvstone_wall, Mossy Cobbled Wyvstone Wall
+mocreatures:wyvstone_wall, Wyvstone Wall
+mocreatures:silver_sandstone_slab:0, Silver Sandstone Slab
+mocreatures:cobbled_deep_wyvstone_slab:0, Cobbled Deep Wyvstone Slab [NYI]
+mocreatures:cobbled_wyvstone_slab:0, Cobbled Wyvstone Slab
+mocreatures:deep_wyvstone_slab:0, Deep Wyvstone Slab [NYI]
+mocreatures:mossy_cobbled_deep_wyvstone_slab:0, Mossy Cobbled Deep Wyvstone Slab [NYI]
+mocreatures:mossy_cobbled_wyvstone_slab:0, Mossy Cobbled Wyvstone Slab
+mocreatures:wyvstone_slab:0, Wyvstone Slab
+mocreatures:wyvwood_slab:0, Wyvwood Slab
 elementalend:fire_eye, Eye of Flames
 elementalend:water_eye, Eye of Tides
 elementalend:lightning_eye, Eye of Storms
@@ -7355,27 +7355,6 @@ elementalend:void_frame, Void End Portal Frame
 elementalend:icy_frame, Frost End Portal Frame
 elementalend:arid_frame, Dunes End Portal Frame
 suikefoxfriend:fox_spawn_egg, Spawn Eggs Fox
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -7426,6 +7405,27 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 framedcompactdrawers:framed_compact_drawer, Framed Compacting Drawer
 framedcompactdrawers:framed_drawer_controller:0, Framed Drawer Controller
 framedcompactdrawers:framed_slave:0, Framed Controller Slave
@@ -7492,7 +7492,6 @@ futuremc:netherite_boots, Netherite Boots
 futuremc:chain, Chain
 futuremc:netherite_block, Block of Netherite
 futuremc:ancient_debris, Ancient Debris
-futuremc:record_pigstep, Music Disc
 futuremc:record_otherside, Music Disc
 harkenscythe:basic_essence_keeper, Basic Essence Keeper
 harkenscythe:basic_essence_keeper_blood, Basic Blood Keeper
@@ -8621,61 +8620,6 @@ raids:ominous_bottle:1, Ominous Bottle
 raids:ominous_bottle:2, Ominous Bottle
 raids:ominous_bottle:3, Ominous Bottle
 raids:ominous_bottle:4, Ominous Bottle
-rats:block_of_cheese, Block of Cheese
-rats:cauldron_milk, Cauldron of Milk
-rats:cauldron_cheese, Cauldron of Cheese
-rats:rat_hole, Rat Hole
-rats:rattrap, Rat Trap
-rats:rat_cage, Rat Cage
-rats:rat_cage_decorated, Rat Cage
-rats:rat_cage_breeding_lantern, tile.rats.rat_cage_breeding_lantern.name
-rats:fish_barrel, Barrel of Fish
-rats:rat_crafting_table, Rat Crafting Table
-rats:auto_curdler, Curdling Station
-rats:rat_tube_white, White Rat Tube
-rats:rat_tube_orange, Orange Rat Tube
-rats:rat_tube_magenta, Magenta Rat Tube
-rats:rat_tube_light_blue, Light Blue Rat Tube
-rats:rat_tube_yellow, Yellow Rat Tube
-rats:rat_tube_lime, Lime Rat Tube
-rats:rat_tube_pink, Pink Rat Tube
-rats:rat_tube_gray, Gray Rat Tube
-rats:rat_tube_silver, Light Gray Rat Tube
-rats:rat_tube_cyan, Cyan Rat Tube
-rats:rat_tube_purple, Purple Rat Tube
-rats:rat_tube_blue, Blue Rat Tube
-rats:rat_tube_brown, Brown Rat Tube
-rats:rat_tube_green, Green Rat Tube
-rats:rat_tube_red, Red Rat Tube
-rats:rat_tube_black, Black Rat Tube
-rats:garbage_pile, Garbage Pile
-rats:ratglove_flower, Ratglove Flower
-rats:marbled_cheese_raw, Raw Marbled Cheese
-rats:marbled_cheese, Marbled Cheese
-rats:marbled_cheese_slab:0, Marbled Cheese Slab
-rats:marbled_cheese_slab_double:0, Marbled Cheese Slab
-rats:marbled_cheese_stairs, Marbled Cheese Stairs
-rats:marbled_cheese_tile, Marbled Cheese Tile
-rats:marbled_cheese_chiseled, Chiseled Marbled Cheese
-rats:marbled_cheese_pillar, Marbled Cheese Pillar
-rats:marbled_cheese_brick, Marbled Cheese Brick
-rats:marbled_cheese_brick_slab:0, Marbled Cheese Brick Slab
-rats:marbled_cheese_brick_slab_double:0, Marbled Cheese Brick Slab
-rats:marbled_cheese_brick_stairs, Marbled Cheese Brick Stairs
-rats:marbled_cheese_brick_chiseled, Chiseled Marbled Cheese Brick
-rats:marbled_cheese_brick_cracked, Cracked Marbled Cheese Brick
-rats:marbled_cheese_brick_mossy, Mossy Marbled Cheese Brick
-rats:marbled_cheese_dirt, Marbled Cheese Dirt
-rats:marbled_cheese_grass, Marbled Cheese Grass
-rats:marbled_cheese_rat_head, Ratlantean Automaton Head
-rats:marbled_cheese_golem_core, Ratlantean Automaton Core
-rats:ratlantis_portal, Ratlantis Portal
-rats:compressed_rat, Block of Ratglove
-rats:brain_block, Brain Block
-rats:jack_o_ratern, Jack O' Ratern
-rats:upgrade_combiner, Rat Upgrade Combiner
-rats:upgrade_separator, Rat Upgrade Separator
-rats:rat_lantern, Rat Lantern
 rats:cheese, Cheese
 rats:raw_rat, Raw Rat
 rats:cooked_rat, Cooked Rat
@@ -8836,6 +8780,61 @@ rats:rat_upgrade_combined, Rat Upgrade: Combined
 rats:rat_upgrade_combined_creative, Rat Upgrade: Combined(Creative)
 rats:rat_nugget, Rat §o"Nugget"
 rats:rat_nugget_ore, %s§o"Nugget"
+rats:block_of_cheese, Block of Cheese
+rats:cauldron_milk, Cauldron of Milk
+rats:cauldron_cheese, Cauldron of Cheese
+rats:rat_hole, Rat Hole
+rats:rattrap, Rat Trap
+rats:rat_cage, Rat Cage
+rats:rat_cage_decorated, Rat Cage
+rats:rat_cage_breeding_lantern, tile.rats.rat_cage_breeding_lantern.name
+rats:fish_barrel, Barrel of Fish
+rats:rat_crafting_table, Rat Crafting Table
+rats:auto_curdler, Curdling Station
+rats:rat_tube_white, White Rat Tube
+rats:rat_tube_orange, Orange Rat Tube
+rats:rat_tube_magenta, Magenta Rat Tube
+rats:rat_tube_light_blue, Light Blue Rat Tube
+rats:rat_tube_yellow, Yellow Rat Tube
+rats:rat_tube_lime, Lime Rat Tube
+rats:rat_tube_pink, Pink Rat Tube
+rats:rat_tube_gray, Gray Rat Tube
+rats:rat_tube_silver, Light Gray Rat Tube
+rats:rat_tube_cyan, Cyan Rat Tube
+rats:rat_tube_purple, Purple Rat Tube
+rats:rat_tube_blue, Blue Rat Tube
+rats:rat_tube_brown, Brown Rat Tube
+rats:rat_tube_green, Green Rat Tube
+rats:rat_tube_red, Red Rat Tube
+rats:rat_tube_black, Black Rat Tube
+rats:garbage_pile, Garbage Pile
+rats:ratglove_flower, Ratglove Flower
+rats:marbled_cheese_raw, Raw Marbled Cheese
+rats:marbled_cheese, Marbled Cheese
+rats:marbled_cheese_slab:0, Marbled Cheese Slab
+rats:marbled_cheese_slab_double:0, Marbled Cheese Slab
+rats:marbled_cheese_stairs, Marbled Cheese Stairs
+rats:marbled_cheese_tile, Marbled Cheese Tile
+rats:marbled_cheese_chiseled, Chiseled Marbled Cheese
+rats:marbled_cheese_pillar, Marbled Cheese Pillar
+rats:marbled_cheese_brick, Marbled Cheese Brick
+rats:marbled_cheese_brick_slab:0, Marbled Cheese Brick Slab
+rats:marbled_cheese_brick_slab_double:0, Marbled Cheese Brick Slab
+rats:marbled_cheese_brick_stairs, Marbled Cheese Brick Stairs
+rats:marbled_cheese_brick_chiseled, Chiseled Marbled Cheese Brick
+rats:marbled_cheese_brick_cracked, Cracked Marbled Cheese Brick
+rats:marbled_cheese_brick_mossy, Mossy Marbled Cheese Brick
+rats:marbled_cheese_dirt, Marbled Cheese Dirt
+rats:marbled_cheese_grass, Marbled Cheese Grass
+rats:marbled_cheese_rat_head, Ratlantean Automaton Head
+rats:marbled_cheese_golem_core, Ratlantean Automaton Core
+rats:ratlantis_portal, Ratlantis Portal
+rats:compressed_rat, Block of Ratglove
+rats:brain_block, Brain Block
+rats:jack_o_ratern, Jack O' Ratern
+rats:upgrade_combiner, Rat Upgrade Combiner
+rats:upgrade_separator, Rat Upgrade Separator
+rats:rat_lantern, Rat Lantern
 db:invisible, Invisible
 db:orb, Eldritch Orb
 db:staff, Staff of the Forgotten
@@ -8853,45 +8852,45 @@ db:temple_brick_stairs, Temple Brick Stairs
 db:temple_brick_slab_half:0, Temple Brick Slab
 db:temple_pillar, Temple Pillar
 db:temple_cobble_slab_half:0, Temple Cobblestone Slab
-toroquest:scroll_earth:0, item.null.name
-toroquest:artifact_brown, §eAncient Artifact§r
-toroquest:scroll_moon:0, item.null.name
-toroquest:royalblock, tile.toroquest.royalblock.name
-toroquest:trophy_archmage, §6Staff of the Archmage§r
-toroquest:trophy, item.trophy.name
-toroquest:artifact_black, §eAncient Artifact§r
-toroquest:royal_helmet, §eRoyal Crown§r
-toroquest:scroll_null:0, item.null.name
-toroquest:trophy_pig, §6Heart of the Demon-Pig§r
-toroquest:recruitment_papers, Recruitment Papers
+toroquest:bandit_helmet, Bandit Mask
+toroquest:scroll_wind:0, item.null.name
 toroquest:scroll_sun:0, item.null.name
-toroquest:city_key, Key to the City
-toroquest:artifact_red, §eAncient Artifact§r
-toroquest:artifact_green, §eAncient Artifact§r
 toroquest:toro_armor_boots, Heavy Leather Boots
 toroquest:toro_armor_leggings, Heavy Leather Leggings
 toroquest:toro_armor_helmet, Heavy Leather Helmet
 toroquest:toro_armor_chestplate, Heavy Leather Chestplate
-toroquest:dwarven_artifact, §6Dwarven Alternator§r
-toroquest:trophy_skeleton, §6Fang of the Vampire Lord§r
-toroquest:toro_leather, Heavy Leather
-toroquest:lord_note, Note
+toroquest:scroll_null:0, item.null.name
 toroquest:artifact_blue, §eAncient Artifact§r
-toroquest:legendary_bandit_helmet, §6Mask of the Bandit Boss§r
-toroquest:scroll_wind:0, item.null.name
-toroquest:ender_idol, §bEnder Idol§r
-toroquest:bandit_helmet, Bandit Mask
-toroquest:scroll_water:0, item.null.name
 toroquest:scroll_fire:0, item.null.name
-toroquest:trophy_beholder, §6Eye of the Obsidian Horror§r
+toroquest:legendary_bandit_helmet, §6Mask of the Bandit Boss§r
+toroquest:royalblock, tile.toroquest.royalblock.name
 toroquest:artifact_yellow, §eAncient Artifact§r
-toroquest:lord_reply, item.lord_reply.name
+toroquest:artifact_brown, §eAncient Artifact§r
+toroquest:royal_helmet, §eRoyal Crown§r
+toroquest:lord_note, Note
+toroquest:toro_leather, Heavy Leather
+toroquest:trophy_pig, §6Heart of the Demon-Pig§r
+toroquest:city_key, Key to the City
+toroquest:trophy_beholder, §6Eye of the Obsidian Horror§r
+toroquest:trophy_spider, §6Pedipalp of the Spider Queen§r
+toroquest:scroll_moon:0, item.null.name
+toroquest:trophy, item.trophy.name
 toroquest:samurai_boots, Samurai Skirt
 toroquest:samurai_leggings, Samurai Leggings
 toroquest:samurai_helmet, Samurai Helmet
 toroquest:samurai_chestplate, Samurai Chestplate
-toroquest:trophy_spider, §6Pedipalp of the Spider Queen§r
+toroquest:scroll_earth:0, item.null.name
+toroquest:artifact_green, §eAncient Artifact§r
+toroquest:dwarven_artifact, §6Dwarven Alternator§r
+toroquest:recruitment_papers, Recruitment Papers
+toroquest:ender_idol, §bEnder Idol§r
 toroquest:trophy_titan, §6Nose of the Grave Titan§r
+toroquest:scroll_water:0, item.null.name
+toroquest:lord_reply, item.lord_reply.name
+toroquest:artifact_red, §eAncient Artifact§r
+toroquest:trophy_skeleton, §6Fang of the Vampire Lord§r
+toroquest:trophy_archmage, §6Staff of the Archmage§r
+toroquest:artifact_black, §eAncient Artifact§r
 vaultopic:vault_searcher, Vault Searcher
 vaultopic:view_small, V.I.E.W. (Vaultopic Inventory Explorer Workbot)
 vaultopic:view_big, V.I.E.W. X (Vaultopic Inventory Explorer Workbot eXtended)
@@ -11342,16 +11341,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Elder Prismarine
 chiselsandbits:block_bit:0, Chiseled Bit - Elder Prismarine Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Dark Elder Prismarine
 chiselsandbits:block_bit:0, Chiseled Bit - Elder Sea Lantern
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Lit Redstone Lamp
-chiselsandbits:block_bit:0, Chiseled Bit - Blaze Lantern
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
-chiselsandbits:block_bit:0, Chiseled Bit - Sugar Block
-chiselsandbits:block_bit:0, Chiseled Bit - Gravisand
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Red Sandstone
@@ -11485,6 +11474,16 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brown Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Green Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Red Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Black Quilted Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Sugar Block
+chiselsandbits:block_bit:0, Chiseled Bit - Gravisand
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Lit Redstone Lamp
+chiselsandbits:block_bit:0, Chiseled Bit - Blaze Lantern
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
 chiselsandbits:block_bit:0, Chiseled Bit - Infested Deepslate Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Infested Deepslate Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Tuff
@@ -11735,6 +11734,7 @@ chiselsandbits:chiseled_grass, Chiseled Grass
 chiselsandbits:chiseled_snow, Chiseled Snow
 chiselsandbits:chiseled_fluid, Chiseled Fluid
 chiselsandbits:chiseled_leaves, Chiseled Leaves
+music_dog:c418dog, Music Disc
 ae2fc:fluid_discretizer, ME Fluid Discretizer
 ae2fc:fluid_pattern_encoder, Fluid Pattern Encoder
 ae2fc:fluid_packet_decoder, ME Fluid Packet Decoder
