@@ -4,12 +4,12 @@
     "modId": "forge",
     "version": "universal.jar"
   },
-  "!!!CrashAssistant-forge-1.12.2-1.10.27.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.27.jar",
+  "!!!CrashAssistant-forge-1.12.2-1.10.28.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.28.jar",
     "modId": "crash_assistant",
-    "version": "1.10.27",
-    "curseForgeHash": 779469533,
-    "modrinthHash": "ef411a96d1ea6c5a9eea03eadd6d61980f3d41e6"
+    "version": "1.10.28",
+    "curseForgeHash": 1494370398,
+    "modrinthHash": "afec88671087ca9ebefff13893d8b952ff0b5603"
   },
   "!configanytime-3.0.jar": {
     "jarName": "!configanytime-3.0.jar",
@@ -37,19 +37,19 @@
     "curseForgeHash": 2239322327,
     "modrinthHash": "13d7c102ae616f8fa74b4ce5f2d8cc26fc397026"
   },
-  "!Red-Core-MC-1.8-1.12-0.7-Dev-1.jar": {
-    "jarName": "!Red-Core-MC-1.8-1.12-0.7-Dev-1.jar",
+  "!Red-Core-MC-1.8-1.12-0.7.jar": {
+    "jarName": "!Red-Core-MC-1.8-1.12-0.7.jar",
     "modId": "redcore",
-    "version": "0.7-Dev-1",
-    "curseForgeHash": 2239901469,
-    "modrinthHash": "acd8a82862086b81e441a914af207881cb62955f"
+    "version": "0.7",
+    "curseForgeHash": 3937023730,
+    "modrinthHash": "ff2fde42c10fae1e127f024463dd965004627ce4"
   },
-  "+Fugue-0.22.4.jar": {
-    "jarName": "+Fugue-0.22.4.jar",
+  "+Fugue-0.22.6.jar": {
+    "jarName": "+Fugue-0.22.6.jar",
     "modId": "fugue",
-    "version": "0.22.4",
-    "curseForgeHash": 4211723190,
-    "modrinthHash": "40e5d988ff8e215436e2e164c77062579304ce75"
+    "version": "0.22.6",
+    "curseForgeHash": 1455217593,
+    "modrinthHash": "c61eac0a7c0a82071c9093932bd39013a11acc8f"
   },
   "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
     "jarName": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
@@ -264,12 +264,12 @@
     "curseForgeHash": 2504603016,
     "modrinthHash": "709084f705253e564b643d151017a6c982f6c822"
   },
-  "bogosorter-1.5.0.jar": {
-    "jarName": "bogosorter-1.5.0.jar",
+  "bogosorter-1.6.1.jar": {
+    "jarName": "bogosorter-1.6.1.jar",
     "modId": "bogosorter",
-    "version": "1.5.0",
-    "curseForgeHash": 2449373032,
-    "modrinthHash": "92ff58180f72ff871986a6597983e03fdeda1730"
+    "version": "1.6.1",
+    "curseForgeHash": 1576178836,
+    "modrinthHash": "35d11d6e3c01ca55ab6b03008c2ad3d0928f7f3a"
   },
   "Bookshelf-1.12.2-2.3.590.jar": {
     "jarName": "Bookshelf-1.12.2-2.3.590.jar",
@@ -277,6 +277,13 @@
     "version": "2.3.590",
     "curseForgeHash": 2546524333,
     "modrinthHash": "83a1864dd78f48102609849dd36866d6cf32b907"
+  },
+  "brigo_forge-1.1.1+1.12.x.jar": {
+    "jarName": "brigo_forge-1.1.1+1.12.x.jar",
+    "modId": "brigo",
+    "version": "1.1.1",
+    "curseForgeHash": 2502745558,
+    "modrinthHash": "d3869109e4a8ca8767429dcad89cd9953c61ad63"
   },
   "Bubbles-2.4.9.jar": {
     "jarName": "Bubbles-2.4.9.jar",
@@ -376,12 +383,12 @@
     "curseForgeHash": 2918049805,
     "modrinthHash": "dae97e0a1539702b07ffa5e48410e57c470e3bd0"
   },
-  "CraftTweaker2-1.12-4.1.20.709.jar": {
-    "jarName": "CraftTweaker2-1.12-4.1.20.709.jar",
+  "CraftTweaker2-1.12-4.1.20.711.jar": {
+    "jarName": "CraftTweaker2-1.12-4.1.20.711.jar",
     "modId": "crafttweaker",
-    "version": "1.12-4.1.20.709",
-    "curseForgeHash": 556926025,
-    "modrinthHash": "15aa4bc8d3e01621e8b045c3a33ccba8058207d5"
+    "version": "1.12-4.1.20.711",
+    "curseForgeHash": 3542576462,
+    "modrinthHash": "4b4d1c646dc7612974412b668dc2d506ae9a6621"
   },
   "Crossbows-Backport-1.12.2-1.1.1.jar": {
     "jarName": "Crossbows-Backport-1.12.2-1.1.1.jar",
@@ -530,19 +537,19 @@
     "curseForgeHash": 998943625,
     "modrinthHash": "7b6a06c6396428a94e83a0adce263d1731dc090c"
   },
-  "fluxloading-1.3.7.jar": {
-    "jarName": "fluxloading-1.3.7.jar",
+  "fluxloading-1.4.0.jar": {
+    "jarName": "fluxloading-1.4.0.jar",
     "modId": "fluxloading",
-    "version": "1.3.7",
-    "curseForgeHash": 3191846466,
-    "modrinthHash": "19795e1cf320b39470f0e764dece68785d7cddc0"
+    "version": "1.4.0",
+    "curseForgeHash": 1214676730,
+    "modrinthHash": "34d463956cd16b22c92ddfc8f8d87fa0d4dfd86a"
   },
-  "Forgelin-Continuous-2.2.21.0.jar": {
-    "jarName": "Forgelin-Continuous-2.2.21.0.jar",
+  "Forgelin-Continuous-2.3.0.0.jar": {
+    "jarName": "Forgelin-Continuous-2.3.0.0.jar",
     "modId": "forgelin_continuous",
-    "version": "2.1.20.0",
-    "curseForgeHash": 1287405665,
-    "modrinthHash": "73be480f397e8e7393cfebac036079d26c006fab"
+    "version": "2.1.0.0",
+    "curseForgeHash": 105582749,
+    "modrinthHash": "050d2913bb9e572d9bbb7f39c147bd9129e16c68"
   },
   "FoxFriend-1.12.2-1.0.7.jar": {
     "jarName": "FoxFriend-1.12.2-1.0.7.jar",
@@ -621,12 +628,12 @@
     "curseForgeHash": 3532092400,
     "modrinthHash": "ca223e0b0f7978c4c62f975cac7fbef29d8d2ca5"
   },
-  "gnetum-1.3.2.jar": {
-    "jarName": "gnetum-1.3.2.jar",
+  "gnetum-1.3.4.jar": {
+    "jarName": "gnetum-1.3.4.jar",
     "modId": "gnetum",
-    "version": "1.3.2",
-    "curseForgeHash": 266308205,
-    "modrinthHash": "97debf6181d65ace6123b8332b801dce520ae0fd"
+    "version": "1.3.4",
+    "curseForgeHash": 3200180228,
+    "modrinthHash": "c8a9503165c33c925186d34fb705749ed8f0aa72"
   },
   "Goslingcord-1.12.2-2.1.1-universal.jar": {
     "jarName": "Goslingcord-1.12.2-2.1.1-universal.jar",
@@ -634,12 +641,12 @@
     "curseForgeHash": 3555440608,
     "modrinthHash": "27963c0d6bdac680ebb4f48249c485e7114dada9"
   },
-  "HadEnoughItems_1.12.2-4.29.12.jar": {
-    "jarName": "HadEnoughItems_1.12.2-4.29.12.jar",
+  "HadEnoughItems_1.12.2-4.29.14.jar": {
+    "jarName": "HadEnoughItems_1.12.2-4.29.14.jar",
     "modId": "jei",
-    "version": "4.29.12",
-    "curseForgeHash": 1362681107,
-    "modrinthHash": "5898366627758a69ce2a28251c1f64a91ee0e4ee"
+    "version": "4.29.14",
+    "curseForgeHash": 1638030778,
+    "modrinthHash": "cb696342e9da001da5d324fab3e705038da2594d"
   },
   "HappyGhast-1.12.2-1.0.14.jar": {
     "jarName": "HappyGhast-1.12.2-1.0.14.jar",
@@ -848,12 +855,12 @@
     "curseForgeHash": 2740281942,
     "modrinthHash": "f0bdbf6f4257e392e59023289998aaa8c295df47"
   },
-  "modularui-3.0.6.jar": {
-    "jarName": "modularui-3.0.6.jar",
+  "modularui-3.0.7.jar": {
+    "jarName": "modularui-3.0.7.jar",
     "modId": "modularui",
-    "version": "3.0.6",
-    "curseForgeHash": 3738992258,
-    "modrinthHash": "602adda259f398d9ad022b289d55460431728aaf"
+    "version": "3.0.7",
+    "curseForgeHash": 2582516106,
+    "modrinthHash": "13f0f65e1b5adc55556d5e8c552382c904cd48c0"
   },
   "MoreTweaker-1.0.19.jar": {
     "jarName": "MoreTweaker-1.0.19.jar",
@@ -1026,26 +1033,26 @@
     "curseForgeHash": 324349683,
     "modrinthHash": "ca442c6ac9689fedba3e57594a893413e275367a"
   },
-  "Raids-Backport-1.12.2-1.1.4c.jar": {
-    "jarName": "Raids-Backport-1.12.2-1.1.4c.jar",
+  "Raids-Backport-1.12.2-1.1.5.jar": {
+    "jarName": "Raids-Backport-1.12.2-1.1.5.jar",
     "modId": "raids",
-    "version": "1.1.4c",
-    "curseForgeHash": 1292477883,
-    "modrinthHash": "e1a0cd450ee7dee9f9ba5f5b88c5c29a894ab930"
+    "version": "1.1.5",
+    "curseForgeHash": 1506416041,
+    "modrinthHash": "d350f7ff036ea864d4347607ca10e902e9fd124c"
   },
-  "random_complement-1.8.5.jar": {
-    "jarName": "random_complement-1.8.5.jar",
+  "random_complement-1.8.9.jar": {
+    "jarName": "random_complement-1.8.9.jar",
     "modId": "random_complement",
-    "version": "1.8.5",
-    "curseForgeHash": 846746612,
-    "modrinthHash": "82bbb3f5ebba6df139f4f39cd86ba2d89839416d"
+    "version": "1.8.9",
+    "curseForgeHash": 3398478029,
+    "modrinthHash": "a238376515e3d79b1a0cc5bf355cf38d96f9b1ba"
   },
-  "RandomTweaker-1.4.9.jar": {
-    "jarName": "RandomTweaker-1.4.9.jar",
+  "RandomTweaker-1.4.10.jar": {
+    "jarName": "RandomTweaker-1.4.10.jar",
     "modId": "randomtweaker",
-    "version": "1.4.9",
-    "curseForgeHash": 3040875434,
-    "modrinthHash": "808d98b434a57c06161b6e04960203b087df9af9"
+    "version": "1.4.10",
+    "curseForgeHash": 1926495611,
+    "modrinthHash": "55e0e3dd859cfed958c4cbc88c2eeac78adc2190"
   },
   "rats-3.2.21-1.12.2.jar": {
     "jarName": "rats-3.2.21-1.12.2.jar",
@@ -1103,12 +1110,12 @@
     "curseForgeHash": 258962057,
     "modrinthHash": "152a6884e6f1807be38e32030bede5d626fea854"
   },
-  "roidtweaker-1.2.1.jar": {
-    "jarName": "roidtweaker-1.2.1.jar",
+  "roidtweaker-1.2.2.jar": {
+    "jarName": "roidtweaker-1.2.2.jar",
     "modId": "roidtweaker",
-    "version": "1.2.1",
-    "curseForgeHash": 1924995079,
-    "modrinthHash": "55323f11312612b5e043149b4b0cae34b3b12e27"
+    "version": "1.2.2",
+    "curseForgeHash": 1375653001,
+    "modrinthHash": "e81c507f2ea43ff2642e48d65c8d4c1b18f44bcb"
   },
   "RoughlyEnoughIDs-2.2.3.jar": {
     "jarName": "RoughlyEnoughIDs-2.2.3.jar",
@@ -1124,12 +1131,12 @@
     "curseForgeHash": 2474390833,
     "modrinthHash": "5c5998c34798647802e14eab6660ba7afdf1a099"
   },
-  "scalar-3.7.2.jar": {
-    "jarName": "scalar-3.7.2.jar",
+  "scalar-3.8.0-RC4.jar": {
+    "jarName": "scalar-3.8.0-RC4.jar",
     "modId": "scalar",
-    "version": "3.7.2",
-    "curseForgeHash": 1685596412,
-    "modrinthHash": "ade6660baba5f53d541731490ddb618de9f5bf40"
+    "version": "3.8.0-RC4",
+    "curseForgeHash": 2501305075,
+    "modrinthHash": "66d1be433c513502a7c1c563c6b3005e30ac811c"
   },
   "serializationisbad-1.5.2.jar": {
     "jarName": "serializationisbad-1.5.2.jar",
@@ -1170,6 +1177,13 @@
     "version": "1.2-1.12.2",
     "curseForgeHash": 2050636073,
     "modrinthHash": "6c9ab3978cadaff3cb06d6da2e888f2915fb155a"
+  },
+  "spark-unforged-1.11.140-forge.jar": {
+    "jarName": "spark-unforged-1.11.140-forge.jar",
+    "modId": "spark",
+    "version": "1.11.2",
+    "curseForgeHash": 3551899529,
+    "modrinthHash": "015557681e5f865c2aa42c8822600e4a064c0467"
   },
   "splashlogofix-1.0.jar": {
     "jarName": "splashlogofix-1.0.jar",
@@ -1239,12 +1253,12 @@
     "curseForgeHash": 3668813005,
     "modrinthHash": "7657dd4809f53b1fbcb12a9a38aef594d68609ab"
   },
-  "UniversalTweaks-1.12.2-1.17.0.jar": {
-    "jarName": "UniversalTweaks-1.12.2-1.17.0.jar",
+  "UniversalTweaks-1.12.2-1.18.0.jar": {
+    "jarName": "UniversalTweaks-1.12.2-1.18.0.jar",
     "modId": "universaltweaks",
-    "version": "1.17.0",
-    "curseForgeHash": 2425737903,
-    "modrinthHash": "a0f6d918ade59f2b4eb7b7df5442fb21c1ea4e66"
+    "version": "1.18.0",
+    "curseForgeHash": 2052152645,
+    "modrinthHash": "bb54c9dc58dac10549552e3cf84912ac5c95800f"
   },
   "Unseens Nether Backport - 0.6.jar": {
     "jarName": "Unseens Nether Backport - 0.6.jar",
@@ -1308,12 +1322,12 @@
     "curseForgeHash": 3724894852,
     "modrinthHash": "dece84febbf3d97b68421510e5037ba77b93e39b"
   },
-  "zenutils-1.26.9.jar": {
-    "jarName": "zenutils-1.26.9.jar",
+  "zenutils-1.26.11.jar": {
+    "jarName": "zenutils-1.26.11.jar",
     "modId": "zenutils",
-    "version": "1.26.9",
-    "curseForgeHash": 3232490486,
-    "modrinthHash": "0049fc72ce6aac1f0c67ff091b0b13b459b94568"
+    "version": "1.26.11",
+    "curseForgeHash": 3835623009,
+    "modrinthHash": "84d7bed4ab6190ae69134783acc112a8de7615a4"
   },
   "zspacket-0.0.1.jar": {
     "jarName": "zspacket-0.0.1.jar",
