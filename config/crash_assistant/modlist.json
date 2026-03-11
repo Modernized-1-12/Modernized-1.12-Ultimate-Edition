@@ -44,12 +44,12 @@
     "curseForgeHash": 2660540505,
     "modrinthHash": "d272efd0c807908138edbac8e6cb2d90127ac01a"
   },
-  "+Fugue-0.23.1.jar": {
-    "jarName": "+Fugue-0.23.1.jar",
+  "+Fugue-0.23.2.jar": {
+    "jarName": "+Fugue-0.23.2.jar",
     "modId": "fugue",
-    "version": "0.23.1",
-    "curseForgeHash": 1490778930,
-    "modrinthHash": "71262bf3c3f0f3979cce787d3bb6435b8242cc58"
+    "version": "0.23.2",
+    "curseForgeHash": 1717462198,
+    "modrinthHash": "af07026bfd1a3239350805b2e8a002f583983d7d"
   },
   "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
     "jarName": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
@@ -509,12 +509,12 @@
     "curseForgeHash": 4123246348,
     "modrinthHash": "dec0d57f19fe0296ed5c21fc4e04b6b64b35cc59"
   },
-  "fermiumasm-5.28.jar": {
-    "jarName": "fermiumasm-5.28.jar",
+  "fermiumasm-5.31.jar": {
+    "jarName": "fermiumasm-5.31.jar",
     "modId": "normalasm",
-    "version": "5.28",
-    "curseForgeHash": 3947634407,
-    "modrinthHash": "d3b4d15cebe24c822556de2c77e348f20afeb064"
+    "version": "5.31",
+    "curseForgeHash": 1004759708,
+    "modrinthHash": "382ed891484edc122f4d2d4e9e3bd5f2f2b15841"
   },
   "FermiumMixins-1.0.12.jar": {
     "jarName": "FermiumMixins-1.0.12.jar",
@@ -704,12 +704,12 @@
     "curseForgeHash": 637705220,
     "modrinthHash": "7280d5c0dab42436549bcefc63ff64a1049e5501"
   },
-  "Ice and Fire-2.2.5.jar": {
-    "jarName": "Ice and Fire-2.2.5.jar",
+  "Ice and Fire-2.2.6.jar": {
+    "jarName": "Ice and Fire-2.2.6.jar",
     "modId": "iceandfire",
-    "version": "2.2.5",
-    "curseForgeHash": 1899676279,
-    "modrinthHash": "54a3df0bc270f63b8cf6d0a97e2ed49d11049d21"
+    "version": "2.2.6",
+    "curseForgeHash": 3168518229,
+    "modrinthHash": "44d760e4d626591d011fd18e8a7505955269f181"
   },
   "ImmersiveCombat-12-13-25.jar": {
     "jarName": "ImmersiveCombat-12-13-25.jar",
