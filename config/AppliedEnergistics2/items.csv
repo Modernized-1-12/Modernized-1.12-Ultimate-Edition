@@ -3403,9 +3403,6 @@ appliedenergistics2:facade:0, Cable Facade - Krypton Light
 appliedenergistics2:facade:0, Cable Facade - Xenon Light
 appliedenergistics2:facade:0, Cable Facade - Radon Light
 appliedenergistics2:facade:0, Cable Facade - Wet Sand
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -3434,6 +3431,9 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
 appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
 appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
@@ -5541,6 +5541,12 @@ appliedenergistics2:facade:0, Cable Facade - Tilled Creep Block
 appliedenergistics2:facade:0, Cable Facade - Bloodied Tilled Creep Block
 appliedenergistics2:facade:0, Cable Facade - Bloodweave Cloth
 appliedenergistics2:facade:0, Cable Facade - Soulweave Cloth
+appliedenergistics2:facade:0, Cable Facade - Ferment Stonebricks
+appliedenergistics2:facade:0, Cable Facade - Ferment Pillar
+appliedenergistics2:facade:0, Cable Facade - Ferment Smooth Brick
+appliedenergistics2:facade:0, Cable Facade - Manus Altar
+appliedenergistics2:facade:0, Cable Facade - Extended Manus Altar
+appliedenergistics2:facade:0, Cable Facade - Goopy Manus Block
 appliedenergistics2:facade:0, Cable Facade - Amethyst Ore
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Ruby Ore
@@ -5594,39 +5600,6 @@ appliedenergistics2:facade:0, Cable Facade - Dreadstone Chiseled Skull
 appliedenergistics2:facade:0, Cable Facade - Dreadstone Bricks Slab
 appliedenergistics2:facade:0, Cable Facade - Dreadwood Planks
 appliedenergistics2:facade:0, Cable Facade - Dreadwood Keyhole
-appliedenergistics2:facade:0, Cable Facade - Cracked Dragonforge Bricks
-appliedenergistics2:facade:0, Cable Facade - Moss Block
-appliedenergistics2:facade:0, Cable Facade - Azalea Leaves
-appliedenergistics2:facade:0, Cable Facade - Flower Spawning Block
-appliedenergistics2:facade:0, Cable Facade - Fiery Stonebrick
-appliedenergistics2:facade:0, Cable Facade - Fiery Chiseled Stonebrick
-appliedenergistics2:facade:0, Cable Facade - Fiery Lit Stonebrick
-appliedenergistics2:facade:0, Cable Facade - Mossy Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Stormvier Decoration Block
-appliedenergistics2:facade:0, Cable Facade - Petrogloom Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Petrogloom Bricks
-appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Brick
-appliedenergistics2:facade:0, Cable Facade - Farum Bricks
-appliedenergistics2:facade:0, Cable Facade - Farum Stone
-appliedenergistics2:facade:0, Cable Facade - Farum Road Bricks
-appliedenergistics2:facade:0, Cable Facade - Farum Decorium
-appliedenergistics2:facade:0, Cable Facade - Chiseled Farum Decorium
-appliedenergistics2:facade:0, Cable Facade - Farum Tiled Bricks
-appliedenergistics2:facade:0, Cable Facade - Polished Farum Stone
-appliedenergistics2:facade:0, Cable Facade - Faurm Pillar
-appliedenergistics2:facade:0, Cable Facade - Chiseled Farum Pillar
-appliedenergistics2:facade:0, Cable Facade - Gilded Farum Bricks
-appliedenergistics2:facade:0, Cable Facade - Smooth Petrogloom
-appliedenergistics2:facade:0, Cable Facade - Smooth Chilled Petrogloom
-appliedenergistics2:facade:0, Cable Facade - Carved Petrogloom
-appliedenergistics2:facade:0, Cable Facade - Chilled Carved Petrogloom
-appliedenergistics2:facade:0, Cable Facade - Petrogloom Pillar
-appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Pillar
-appliedenergistics2:facade:0, Cable Facade - Petrogloom
-appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom
-appliedenergistics2:facade:0, Cable Facade - Petrogloom Decoration Stone
-appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Decoration Stone
 appliedenergistics2:facade:0, Cable Facade - Lamented End Stone
 appliedenergistics2:facade:0, Cable Facade - Pure Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Lustrian Crystal Block
@@ -5660,6 +5633,7 @@ appliedenergistics2:facade:0, Cable Facade - Barrend Gate Connector
 appliedenergistics2:facade:0, Cable Facade - Barrend Leaves
 appliedenergistics2:facade:0, Cable Facade - Barrend Log
 appliedenergistics2:facade:0, Cable Facade - Barrend Log Hole
+appliedenergistics2:facade:0, Cable Facade - Chalk
 appliedenergistics2:facade:0, Cable Facade - Osmium Block
 appliedenergistics2:facade:0, Cable Facade - Bronze Block
 appliedenergistics2:facade:0, Cable Facade - Refined Obsidian
@@ -5841,6 +5815,15 @@ appliedenergistics2:facade:0, Cable Facade - Ratlantean Automaton Core
 appliedenergistics2:facade:0, Cable Facade - Block of Ratglove
 appliedenergistics2:facade:0, Cable Facade - Brain Block
 appliedenergistics2:facade:0, Cable Facade - Jack O' Ratern
+appliedenergistics2:facade:0, Cable Facade - Rot Cube
+appliedenergistics2:facade:0, Cable Facade - Rotplate Block
+appliedenergistics2:facade:0, Cable Facade - Sectioned Rotplate Block
+appliedenergistics2:facade:0, Cable Facade - Patterned Rotplate Block
+appliedenergistics2:facade:0, Cable Facade - Dense Rotplate Block
+appliedenergistics2:facade:0, Cable Facade - Rotplate Ore
+appliedenergistics2:facade:0, Cable Facade - Rotting Soil
+appliedenergistics2:facade:0, Cable Facade - Defiled Earth
+appliedenergistics2:facade:0, Cable Facade - Sentient Earth
 appliedenergistics2:facade:0, Cable Facade - Temple Brick
 appliedenergistics2:facade:0, Cable Facade - Polished Temple Brick
 appliedenergistics2:facade:0, Cable Facade - Temple Cobblestone
@@ -5849,6 +5832,73 @@ appliedenergistics2:facade:0, Cable Facade - Golden Chiseled Brick
 appliedenergistics2:facade:0, Cable Facade - Golden Temple Brick
 appliedenergistics2:facade:0, Cable Facade - Temple Lamp
 appliedenergistics2:facade:0, Cable Facade - Temple Pillar
+appliedenergistics2:facade:0, Cable Facade - Moss Block
+appliedenergistics2:facade:0, Cable Facade - Dungeon Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Mossy Dungeon Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Azalea Leaves
+appliedenergistics2:facade:0, Cable Facade - Flower Spawning Block
+appliedenergistics2:facade:0, Cable Facade - Fiery Stonebrick
+appliedenergistics2:facade:0, Cable Facade - Fiery Chiseled Stonebrick
+appliedenergistics2:facade:0, Cable Facade - Fiery Lit Stonebrick
+appliedenergistics2:facade:0, Cable Facade - Mossy Spruce Planks
+appliedenergistics2:facade:0, Cable Facade - Stormvier Decoration Block
+appliedenergistics2:facade:0, Cable Facade - Block of Stormvier Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Adventuric Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Frostborn Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Aegyptian Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Dark Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Novik Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Lithic Metal
+appliedenergistics2:facade:0, Cable Facade - Petrogloom Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Petrogloom Bricks
+appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Brick
+appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Lamp
+appliedenergistics2:facade:0, Cable Facade - Farum Bricks
+appliedenergistics2:facade:0, Cable Facade - Farum Stone
+appliedenergistics2:facade:0, Cable Facade - Farum Road Bricks
+appliedenergistics2:facade:0, Cable Facade - Farum Decorium
+appliedenergistics2:facade:0, Cable Facade - Chiseled Farum Decorium
+appliedenergistics2:facade:0, Cable Facade - Farum Tiled Bricks
+appliedenergistics2:facade:0, Cable Facade - Polished Farum Stone
+appliedenergistics2:facade:0, Cable Facade - Farum Pillar
+appliedenergistics2:facade:0, Cable Facade - Chiseled Farum Pillar
+appliedenergistics2:facade:0, Cable Facade - Gilded Farum Bricks
+appliedenergistics2:facade:0, Cable Facade - Grum Bricks
+appliedenergistics2:facade:0, Cable Facade - Coralite
+appliedenergistics2:facade:0, Cable Facade - Coralite Stonebricks
+appliedenergistics2:facade:0, Cable Facade - Chiseled Grum Stone
+appliedenergistics2:facade:0, Cable Facade - Grum Stone
+appliedenergistics2:facade:0, Cable Facade - Smooth Grum Stone
+appliedenergistics2:facade:0, Cable Facade - Tiled Grum Bricks
+appliedenergistics2:facade:0, Cable Facade - Chiseled Tiled Grum Bricks
+appliedenergistics2:facade:0, Cable Facade - Darkglow Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Darkglow Bricks
+appliedenergistics2:facade:0, Cable Facade - Darkglow Decorium Bricks
+appliedenergistics2:facade:0, Cable Facade - Darkglow Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Lit Darkglow Bricks
+appliedenergistics2:facade:0, Cable Facade - Lit Darkglow Decorium Bricks
+appliedenergistics2:facade:0, Cable Facade - Gaelon Crystal
+appliedenergistics2:facade:0, Cable Facade - Alfera Planks
+appliedenergistics2:facade:0, Cable Facade - Studded Alfera Planks
+appliedenergistics2:facade:0, Cable Facade - Alfera Crate
+appliedenergistics2:facade:0, Cable Facade - Obsidilith Rune Point
+appliedenergistics2:facade:0, Cable Facade - Smooth Petrogloom
+appliedenergistics2:facade:0, Cable Facade - Smooth Chilled Petrogloom
+appliedenergistics2:facade:0, Cable Facade - Carved Petrogloom
+appliedenergistics2:facade:0, Cable Facade - Chilled Carved Petrogloom
+appliedenergistics2:facade:0, Cable Facade - Petrogloom Pillar
+appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Pillar
+appliedenergistics2:facade:0, Cable Facade - Grum Pillar
+appliedenergistics2:facade:0, Cable Facade - Darkglow Pillar
+appliedenergistics2:facade:0, Cable Facade - Darkglow Light Pillar
+appliedenergistics2:facade:0, Cable Facade - Darglow Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Petrogloom
+appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom
+appliedenergistics2:facade:0, Cable Facade - Petrogloom Decoration Stone
+appliedenergistics2:facade:0, Cable Facade - Chilled Petrogloom Decoration Stone
+appliedenergistics2:facade:0, Cable Facade - Grum Displacer Lens
+appliedenergistics2:facade:0, Cable Facade - Grum Sealed Brick
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -6382,138 +6432,6 @@ alchemistry:ingot:117, Tennessine Ingot
 alchemistry:ingot:118, Oganesson Ingot
 alchemistry:periodic_table, Periodic Table
 baubles:max_verstappen, Max Verstappen
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:witch_hat, item.witch_hat.name
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:leaf_carpet:6, Swamp Oak Leaf Carpet
-quark:leaf_carpet:7, Blossoming Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:grate, tile.grate.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:tiny_potato, tile.tiny_potato.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:horse_whistle, item.horse_whistle.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -6834,6 +6752,137 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:leaf_carpet:6, Swamp Oak Leaf Carpet
+quark:leaf_carpet:7, Blossoming Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:grate, tile.grate.name
+quark:glass_item_frame, item.glass_item_frame.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:horse_whistle, item.horse_whistle.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
+quark:tiny_potato, tile.tiny_potato.name
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -6956,6 +7005,7 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
+quark:witch_hat, item.witch_hat.name
 quark:chute, tile.chute.name
 quark:sugar_block, tile.sugar_block.name
 quark:redstone_randomizer, tile.redstone_randomizer.name
@@ -7130,6 +7180,7 @@ deeperdepths:small_amethyst_bud, Small Amethyst Bud
 deeperdepths:medium_amethyst_bud, Medium Amethyst Bud
 deeperdepths:large_amethyst_bud, Large Amethyst Bud
 deeperdepths:amethyst_cluster, Amethyst Cluster
+deeperdepths:tinted_glass, Tinted Glass
 deeperdepths:candle, Candle
 deeperdepths:white_candle, White Candle
 deeperdepths:orange_candle, Orange Candle
@@ -7152,20 +7203,13 @@ deeperdepths:vault:0, Vault
 deeperdepths:vault:1, Ominous Vault
 deeperdepths:trial_pot, Trial Pot
 deeperdepths:heavy_core, Heavy Core
-deeperdepths:tinted_glass, Tinted Glass
 deeperdepths:copper_torch, Copper Torch
 deeperdepths:material:0, Copper Ingot
 deeperdepths:material:4, Copper Nugget
 deeperdepths:material:1, Amethyst Shard
 deeperdepths:material:3, Breeze Rod
 deeperdepths:wind_charge, Wind Charge
-deeperdepths:ominous_bottle:0, Ominous Bottle
-deeperdepths:ominous_bottle:1, Ominous Bottle
-deeperdepths:ominous_bottle:2, Ominous Bottle
-deeperdepths:ominous_bottle:3, Ominous Bottle
-deeperdepths:ominous_bottle:4, Ominous Bottle
-deeperdepths:trial_key:0, Trial Key
-deeperdepths:trial_key:1, Ominous Trial Key
+deeperdepths:explorer_map:0, Trial Explorer Map
 deeperdepths:copper_sword, Copper Sword
 deeperdepths:copper_hoe, Copper Hoe
 deeperdepths:copper_pickaxe, Copper Pickaxe
@@ -7177,71 +7221,17 @@ deeperdepths:copper_leggings, Copper Leggings
 deeperdepths:copper_boots, Copper Boots
 deeperdepths:copper_horse_armour, Copper Horse Armor
 deeperdepths:spyglass, Spyglass
-deeperdepths:mace, Mace
+deeperdepths:trial_key:0, Trial Key
+deeperdepths:trial_key:1, Ominous Trial Key
 deeperdepths:trial_chambers_painting, Trial Chambers Painting
+deeperdepths:ominous_bottle:0, Ominous Bottle
+deeperdepths:ominous_bottle:1, Ominous Bottle
+deeperdepths:ominous_bottle:2, Ominous Bottle
+deeperdepths:ominous_bottle:3, Ominous Bottle
+deeperdepths:ominous_bottle:4, Ominous Bottle
+deeperdepths:mace, Mace
 demagnetize:demagnetizer, Demagnetizer
 demagnetize:demagnetizer_advanced, Advanced Demagnetizer
-mocreatures:deep_wyvstone_button, Deep Wyvstone Button [NYI]
-mocreatures:wyvstone_button, Wyvstone Button
-mocreatures:wyvwood_button, Wyvwood Button
-mocreatures:wyvdirt, Wyvdirt
-mocreatures:wyvwood_fence_gate, Wyvwood Fence Gate
-mocreatures:wyvwood_fence, Wyvwood Fence
-mocreatures:firestone, Firestone [NYI]
-mocreatures:gleaming_glass, Gleaming Glass
-mocreatures:wyvgrass, Wyvgrass Block
-mocreatures:wyvwood_leaves, Wyvwood Leaves
-mocreatures:wyvwood_log, Wyvwood Log
-mocreatures:ancient_silver_block, Block of Ancient Silver
-mocreatures:fine_silver_block, Block of Fine Silver
-mocreatures:wyvern_nest_block, Wyvern Nest Block [NYI]
-mocreatures:ancient_ore, Ancient Ore [NYI]
-mocreatures:wyvern_diamond_ore, Wyvern Diamond Ore [NYI]
-mocreatures:wyvern_emerald_ore, Wyvern Emerald Ore [NYI]
-mocreatures:wyvern_gold_ore, Wyvern Gold Ore [NYI]
-mocreatures:wyvern_iron_ore, Wyvern Iron Ore [NYI]
-mocreatures:wyvern_lapis_ore, Wyvern Lapis Lazuli Ore [NYI]
-mocreatures:gleaming_glass_pane, Gleaming Glass Pane
-mocreatures:wyvwood_planks, Wyvwood Planks
-mocreatures:deep_wyvstone_pressure_plate, Deep Wyvstone Pressure Plate [NYI]
-mocreatures:wyvstone_pressure_plate, Wyvstone Pressure Plate
-mocreatures:wyvwood_pressure_plate, Wyvwood Pressure Plate
-mocreatures:carved_silver_sandstone, Chiseled Silver Sandstone
-mocreatures:silver_sandstone, Silver Sandstone
-mocreatures:smooth_silver_sandstone, Cut Silver Sandstone
-mocreatures:cobbled_deep_wyvstone, Cobbled Deep Wyvstone [NYI]
-mocreatures:cobbled_wyvstone, Cobbled Wyvstone
-mocreatures:deep_wyvstone, Deep Wyvstone [NYI]
-mocreatures:mossy_cobbled_deep_wyvstone, Mossy Cobbled Deep Wyvstone [NYI]
-mocreatures:mossy_cobbled_wyvstone, Mossy Cobbled Wyvstone
-mocreatures:wyvstone, Wyvstone
-mocreatures:silver_sand, Silver Sand
-mocreatures:wyvwood_sapling, Wyvwood Sapling
-mocreatures:wyvwood_stairs, Wyvwood Stairs
-mocreatures:silver_sandstone_stairs, Silver Sandstone Stairs
-mocreatures:cobbled_deep_wyvstone_stairs, Cobbled Deep Wyvstone Stairs [NYI]
-mocreatures:cobbled_wyvstone_stairs, Cobbled Wyvstone Stairs
-mocreatures:deep_wyvstone_stairs, Deep Wyvstone Stairs [NYI]
-mocreatures:mossy_cobbled_deep_wyvstone_stairs, Mossy Cobbled Deep Wyvstone Stairs [NYI]
-mocreatures:mossy_cobbled_wyvstone_stairs, Mossy Cobbled Wyvstone Stairs
-mocreatures:wyvstone_stairs, Wyvstone Stairs
-mocreatures:tall_wyvgrass, Wyvgrass
-mocreatures:wyvwood_trapdoor, Wyvwood Trapdoor
-mocreatures:silver_sandstone_wall, Silver Sandstone Wall
-mocreatures:cobbled_deep_wyvstone_wall, Cobbled Deep Wyvstone Wall [NYI]
-mocreatures:cobbled_wyvstone_wall, Cobbled Wyvstone Wall
-mocreatures:deep_wyvstone_wall, Deep Wyvstone Wall [NYI]
-mocreatures:mossy_cobbled_deep_wyvstone_wall, Mossy Cobbled Deep Wyvstone Wall [NYI]
-mocreatures:mossy_cobbled_wyvstone_wall, Mossy Cobbled Wyvstone Wall
-mocreatures:wyvstone_wall, Wyvstone Wall
-mocreatures:silver_sandstone_slab:0, Silver Sandstone Slab
-mocreatures:cobbled_deep_wyvstone_slab:0, Cobbled Deep Wyvstone Slab [NYI]
-mocreatures:cobbled_wyvstone_slab:0, Cobbled Wyvstone Slab
-mocreatures:deep_wyvstone_slab:0, Deep Wyvstone Slab [NYI]
-mocreatures:mossy_cobbled_deep_wyvstone_slab:0, Mossy Cobbled Deep Wyvstone Slab [NYI]
-mocreatures:mossy_cobbled_wyvstone_slab:0, Mossy Cobbled Wyvstone Slab
-mocreatures:wyvstone_slab:0, Wyvstone Slab
-mocreatures:wyvwood_slab:0, Wyvwood Slab
 mocreatures:kittybed_white, White Kitty Bed
 mocreatures:kittybed_orange, Orange Kitty Bed
 mocreatures:kittybed_magenta, Magenta Kitty Bed
@@ -7461,6 +7451,67 @@ mocreatures:scrollofsale, Scroll of Sale
 mocreatures:scrollofrenaming, Scroll of Renaming
 mocreatures:crabraw, Raw Crab
 mocreatures:crabcooked, Cooked Crab
+mocreatures:deep_wyvstone_button, Deep Wyvstone Button [NYI]
+mocreatures:wyvstone_button, Wyvstone Button
+mocreatures:wyvwood_button, Wyvwood Button
+mocreatures:wyvdirt, Wyvdirt
+mocreatures:wyvwood_fence_gate, Wyvwood Fence Gate
+mocreatures:wyvwood_fence, Wyvwood Fence
+mocreatures:firestone, Firestone [NYI]
+mocreatures:gleaming_glass, Gleaming Glass
+mocreatures:wyvgrass, Wyvgrass Block
+mocreatures:wyvwood_leaves, Wyvwood Leaves
+mocreatures:wyvwood_log, Wyvwood Log
+mocreatures:ancient_silver_block, Block of Ancient Silver
+mocreatures:fine_silver_block, Block of Fine Silver
+mocreatures:wyvern_nest_block, Wyvern Nest Block [NYI]
+mocreatures:ancient_ore, Ancient Ore [NYI]
+mocreatures:wyvern_diamond_ore, Wyvern Diamond Ore [NYI]
+mocreatures:wyvern_emerald_ore, Wyvern Emerald Ore [NYI]
+mocreatures:wyvern_gold_ore, Wyvern Gold Ore [NYI]
+mocreatures:wyvern_iron_ore, Wyvern Iron Ore [NYI]
+mocreatures:wyvern_lapis_ore, Wyvern Lapis Lazuli Ore [NYI]
+mocreatures:gleaming_glass_pane, Gleaming Glass Pane
+mocreatures:wyvwood_planks, Wyvwood Planks
+mocreatures:deep_wyvstone_pressure_plate, Deep Wyvstone Pressure Plate [NYI]
+mocreatures:wyvstone_pressure_plate, Wyvstone Pressure Plate
+mocreatures:wyvwood_pressure_plate, Wyvwood Pressure Plate
+mocreatures:carved_silver_sandstone, Chiseled Silver Sandstone
+mocreatures:silver_sandstone, Silver Sandstone
+mocreatures:smooth_silver_sandstone, Cut Silver Sandstone
+mocreatures:cobbled_deep_wyvstone, Cobbled Deep Wyvstone [NYI]
+mocreatures:cobbled_wyvstone, Cobbled Wyvstone
+mocreatures:deep_wyvstone, Deep Wyvstone [NYI]
+mocreatures:mossy_cobbled_deep_wyvstone, Mossy Cobbled Deep Wyvstone [NYI]
+mocreatures:mossy_cobbled_wyvstone, Mossy Cobbled Wyvstone
+mocreatures:wyvstone, Wyvstone
+mocreatures:silver_sand, Silver Sand
+mocreatures:wyvwood_sapling, Wyvwood Sapling
+mocreatures:wyvwood_stairs, Wyvwood Stairs
+mocreatures:silver_sandstone_stairs, Silver Sandstone Stairs
+mocreatures:cobbled_deep_wyvstone_stairs, Cobbled Deep Wyvstone Stairs [NYI]
+mocreatures:cobbled_wyvstone_stairs, Cobbled Wyvstone Stairs
+mocreatures:deep_wyvstone_stairs, Deep Wyvstone Stairs [NYI]
+mocreatures:mossy_cobbled_deep_wyvstone_stairs, Mossy Cobbled Deep Wyvstone Stairs [NYI]
+mocreatures:mossy_cobbled_wyvstone_stairs, Mossy Cobbled Wyvstone Stairs
+mocreatures:wyvstone_stairs, Wyvstone Stairs
+mocreatures:tall_wyvgrass, Wyvgrass
+mocreatures:wyvwood_trapdoor, Wyvwood Trapdoor
+mocreatures:silver_sandstone_wall, Silver Sandstone Wall
+mocreatures:cobbled_deep_wyvstone_wall, Cobbled Deep Wyvstone Wall [NYI]
+mocreatures:cobbled_wyvstone_wall, Cobbled Wyvstone Wall
+mocreatures:deep_wyvstone_wall, Deep Wyvstone Wall [NYI]
+mocreatures:mossy_cobbled_deep_wyvstone_wall, Mossy Cobbled Deep Wyvstone Wall [NYI]
+mocreatures:mossy_cobbled_wyvstone_wall, Mossy Cobbled Wyvstone Wall
+mocreatures:wyvstone_wall, Wyvstone Wall
+mocreatures:silver_sandstone_slab:0, Silver Sandstone Slab
+mocreatures:cobbled_deep_wyvstone_slab:0, Cobbled Deep Wyvstone Slab [NYI]
+mocreatures:cobbled_wyvstone_slab:0, Cobbled Wyvstone Slab
+mocreatures:deep_wyvstone_slab:0, Deep Wyvstone Slab [NYI]
+mocreatures:mossy_cobbled_deep_wyvstone_slab:0, Mossy Cobbled Deep Wyvstone Slab [NYI]
+mocreatures:mossy_cobbled_wyvstone_slab:0, Mossy Cobbled Wyvstone Slab
+mocreatures:wyvstone_slab:0, Wyvstone Slab
+mocreatures:wyvwood_slab:0, Wyvwood Slab
 elementalend:fire_frame, Flames End Portal Frame
 elementalend:water_frame, Tides End Portal Frame
 elementalend:lightning_frame, Storms End Portal Frame
@@ -7485,28 +7536,6 @@ elementalend:magic_eye, Eye of Magic
 elementalend:void_eye, Eye of Void
 elementalend:icy_eye, Eye of Frost
 elementalend:arid_eye, Eye of Dunes
-suikefoxfriend:fox_spawn_egg, Spawn Eggs Fox
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -7557,6 +7586,27 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 framedcompactdrawers:framed_compact_drawer, Framed Compacting Drawer
 framedcompactdrawers:framed_drawer_controller:0, Framed Drawer Controller
 framedcompactdrawers:framed_slave:0, Framed Controller Slave
@@ -7742,6 +7792,40 @@ harkenscythe:soul_absorber, Soul Absorber
 harkenscythe:blood_altar, Altar of Blood
 harkenscythe:soul_altar, Altar of Souls
 harkenscythe:livingmetal_core, Livingmetal Core
+helios:invisible, Invisible Item
+helios:manus_goop, Manus Goop
+helios:manus_stick, Goop Covered Stick
+helios:manus_core, Grafted Core
+helios:hemoglephin, Hemoglephin
+helios:manus_brain, Depths Brain
+helios:manus_finger, Great Finger
+helios:scroll_of_greed, Scroll of Living Greed
+helios:greed_compass, Compass of Fate
+helios:hand_trinket, Trinket of the Hand
+helios:manus_shield, Finger Shield
+helios:manus_sword, Manus Sword
+helios:great_finger, The Great Finger
+helios:champion_spear, Nameless Champion's Spear
+helios:manus_helmet, Manus Helmet
+helios:manus_chestplate, Manus Chestplate
+helios:manus_boots, Manus Boots
+helios:champion_locator, Trinket of Destiny
+helios:staga_fruit, Staga Fruit
+helios:tracking_orb, Champion Projectile
+helios:ferment_stone_brick, Ferment Stonebricks
+helios:ferment_stone_wall, Ferment Stonebrick Wall
+helios:ferment_stone_stairs, Ferment Stonebrick Stairs
+helios:ferment_slab_half:0, Ferment Stonebrick Slab
+helios:ferment_pillar, Ferment Pillar
+helios:ferment_smooth, Ferment Smooth Brick
+helios:manus_altar, Manus Altar
+helios:manus_altar_extension, Extended Manus Altar
+helios:manus_block, Goopy Manus Block
+helios:remnant_cycler, Remnant Cycler
+helios:manus_grass, Manus Growth
+helios:manus_vines, Manus Sprout
+helios:farm_manus_vines, Blooming Manus Sprout
+helios:champion_head:0, Nameless Champion's Head
 hooked:hook:0, Wooden Hook
 hooked:hook:1, Iron Hook
 hooked:hook:2, Diamond Hook
@@ -7848,8 +7932,7 @@ iceandfire:dreadwood_planks, Dreadwood Planks
 iceandfire:dreadwood_planks_lock, Dreadwood Keyhole
 iceandfire:dread_spawner, Dreadstone Mob Spawner
 iceandfire:monster_spawner, Mob Spawner
-iceandfire:dragonforge_bricks, Dragonforge Bricks
-iceandfire:dragonforge_bricks_cracked, Cracked Dragonforge Bricks
+iceandfire:dragonforge_vent, Dragonforge Vent
 iceandfire:dragonforge_input, Dragonforge Aperture
 iceandfire:dragonforge_core_fire, Dragonforge Core
 iceandfire:dragonforge_core_ice, Dragonforge Core
@@ -7886,30 +7969,6 @@ iceandfire:silver_hoe, Silver Hoe
 iceandfire:fire_stew, Fire Lily Mixture
 iceandfire:frost_stew, Frost Lily Mixture
 iceandfire:lightning_stew, Lightning Lily Mixture
-iceandfire:dragonegg_red:0, Dragon Egg
-iceandfire:dragonegg_green:0, Dragon Egg
-iceandfire:dragonegg_bronze:0, Dragon Egg
-iceandfire:dragonegg_gray:0, Dragon Egg
-iceandfire:dragonegg_blue:0, Dragon Egg
-iceandfire:dragonegg_white:0, Dragon Egg
-iceandfire:dragonegg_sapphire:0, Dragon Egg
-iceandfire:dragonegg_silver:0, Dragon Egg
-iceandfire:dragonegg_electric:0, Dragon Egg
-iceandfire:dragonegg_amethyst:0, Dragon Egg
-iceandfire:dragonegg_copper:0, Dragon Egg
-iceandfire:dragonegg_black:0, Dragon Egg
-iceandfire:dragonscales_red:0, Dragon Scales
-iceandfire:dragonscales_green:0, Dragon Scales
-iceandfire:dragonscales_bronze:0, Dragon Scales
-iceandfire:dragonscales_gray:0, Dragon Scales
-iceandfire:dragonscales_blue:0, Dragon Scales
-iceandfire:dragonscales_white:0, Dragon Scales
-iceandfire:dragonscales_sapphire:0, Dragon Scales
-iceandfire:dragonscales_silver:0, Dragon Scales
-iceandfire:dragonscales_electric:0, Dragon Scales
-iceandfire:dragonscales_amethyst:0, Dragon Scales
-iceandfire:dragonscales_copper:0, Dragon Scales
-iceandfire:dragonscales_black:0, Dragon Scales
 iceandfire:dragonbone, Dragon Bone
 iceandfire:witherbone, Witherbone
 iceandfire:fishing_spear, Fishing Spear
@@ -8077,6 +8136,10 @@ iceandfire:summoning_crystal_ice, Ice Dragon Summoning Crystal
 iceandfire:summoning_crystal_lightning, Lightning Dragon Summoning Crystal
 iceandfire:chain_link, Iron Chain Link
 iceandfire:chain, Iron Chain
+iceandfire:myrmex_desert_swarm, Myrmex Swarm
+iceandfire:myrmex_jungle_swarm, Myrmex Swarm
+iceandfire:hippogryph_talon, Hippogryph Talon
+iceandfire:hippogryph_sword, Hippogryph Talon Sword
 iceandfire:dragon_collar, Dragon Collar
 iceandfire:armor_red_helmet, Dragon Scale Helmet
 iceandfire:armor_red_chestplate, Dragon Scale Chestplate
@@ -8174,37 +8237,80 @@ iceandfire:armor_black_helmet_shocked, Shocked Dragon Scale Helmet
 iceandfire:armor_black_chestplate_shocked, Shocked Dragon Scale Chestplate
 iceandfire:armor_black_leggings_shocked, Shocked Dragon Scale Leggings
 iceandfire:armor_black_boots_shocked, Shocked Dragon Scale Boots
+iceandfire:dragonegg_red, Dragon Egg
+iceandfire:dragonscales_red, Dragon Scales
+iceandfire:dragonscales_red_pile, Pile of Dragon Scales
+iceandfire:dragonegg_green, Dragon Egg
+iceandfire:dragonscales_green, Dragon Scales
+iceandfire:dragonscales_green_pile, Pile of Dragon Scales
+iceandfire:dragonegg_bronze, Dragon Egg
+iceandfire:dragonscales_bronze, Dragon Scales
+iceandfire:dragonscales_bronze_pile, Pile of Dragon Scales
+iceandfire:dragonegg_gray, Dragon Egg
+iceandfire:dragonscales_gray, Dragon Scales
+iceandfire:dragonscales_gray_pile, Pile of Dragon Scales
+iceandfire:dragonegg_blue, Dragon Egg
+iceandfire:dragonscales_blue, Dragon Scales
+iceandfire:dragonscales_blue_pile, Pile of Dragon Scales
+iceandfire:dragonegg_white, Dragon Egg
+iceandfire:dragonscales_white, Dragon Scales
+iceandfire:dragonscales_white_pile, Pile of Dragon Scales
+iceandfire:dragonegg_sapphire, Dragon Egg
+iceandfire:dragonscales_sapphire, Dragon Scales
+iceandfire:dragonscales_sapphire_pile, Pile of Dragon Scales
+iceandfire:dragonegg_silver, Dragon Egg
+iceandfire:dragonscales_silver, Dragon Scales
+iceandfire:dragonscales_silver_pile, Pile of Dragon Scales
+iceandfire:dragonegg_electric, Dragon Egg
+iceandfire:dragonscales_electric, Dragon Scales
+iceandfire:dragonscales_electric_pile, Pile of Dragon Scales
+iceandfire:dragonegg_amethyst, Dragon Egg
+iceandfire:dragonscales_amethyst, Dragon Scales
+iceandfire:dragonscales_amethyst_pile, Pile of Dragon Scales
+iceandfire:dragonegg_copper, Dragon Egg
+iceandfire:dragonscales_copper, Dragon Scales
+iceandfire:dragonscales_copper_pile, Pile of Dragon Scales
+iceandfire:dragonegg_black, Dragon Egg
+iceandfire:dragonscales_black, Dragon Scales
+iceandfire:dragonscales_black_pile, Pile of Dragon Scales
 iceandfire:sea_serpent_scales_blue, Sea Serpent Scales
+iceandfire:sea_serpent_scales_blue_pile, Pile of Sea Serpent Scales
 iceandfire:tide_blue_helmet, Tide Guardian Helmet
 iceandfire:tide_blue_chestplate, Tide Guardian Chestplate
 iceandfire:tide_blue_leggings, Tide Guardian Leggings
 iceandfire:tide_blue_boots, Tide Guardian Boots
 iceandfire:sea_serpent_scales_bronze, Sea Serpent Scales
+iceandfire:sea_serpent_scales_bronze_pile, Pile of Sea Serpent Scales
 iceandfire:tide_bronze_helmet, Tide Guardian Helmet
 iceandfire:tide_bronze_chestplate, Tide Guardian Chestplate
 iceandfire:tide_bronze_leggings, Tide Guardian Leggings
 iceandfire:tide_bronze_boots, Tide Guardian Boots
 iceandfire:sea_serpent_scales_deepblue, Sea Serpent Scales
+iceandfire:sea_serpent_scales_deepblue_pile, Pile of Sea Serpent Scales
 iceandfire:tide_deepblue_helmet, Tide Guardian Helmet
 iceandfire:tide_deepblue_chestplate, Tide Guardian Chestplate
 iceandfire:tide_deepblue_leggings, Tide Guardian Leggings
 iceandfire:tide_deepblue_boots, Tide Guardian Boots
 iceandfire:sea_serpent_scales_green, Sea Serpent Scales
+iceandfire:sea_serpent_scales_green_pile, Pile of Sea Serpent Scales
 iceandfire:tide_green_helmet, Tide Guardian Helmet
 iceandfire:tide_green_chestplate, Tide Guardian Chestplate
 iceandfire:tide_green_leggings, Tide Guardian Leggings
 iceandfire:tide_green_boots, Tide Guardian Boots
 iceandfire:sea_serpent_scales_purple, Sea Serpent Scales
+iceandfire:sea_serpent_scales_purple_pile, Pile of Sea Serpent Scales
 iceandfire:tide_purple_helmet, Tide Guardian Helmet
 iceandfire:tide_purple_chestplate, Tide Guardian Chestplate
 iceandfire:tide_purple_leggings, Tide Guardian Leggings
 iceandfire:tide_purple_boots, Tide Guardian Boots
 iceandfire:sea_serpent_scales_red, Sea Serpent Scales
+iceandfire:sea_serpent_scales_red_pile, Pile of Sea Serpent Scales
 iceandfire:tide_red_helmet, Tide Guardian Helmet
 iceandfire:tide_red_chestplate, Tide Guardian Chestplate
 iceandfire:tide_red_leggings, Tide Guardian Leggings
 iceandfire:tide_red_boots, Tide Guardian Boots
 iceandfire:sea_serpent_scales_teal, Sea Serpent Scales
+iceandfire:sea_serpent_scales_teal_pile, Pile of Sea Serpent Scales
 iceandfire:tide_teal_helmet, Tide Guardian Helmet
 iceandfire:tide_teal_chestplate, Tide Guardian Chestplate
 iceandfire:tide_teal_leggings, Tide Guardian Leggings
@@ -8236,193 +8342,6 @@ iceandfire:troll_skull, Troll Skull
 iceandfire:amphithere_skull, Amphithere Skull
 iceandfire:seaserpent_skull, Sea Serpent Skull
 iceandfire:hydra_skull, Hydra Skull
-da:void_thorns, Void Thorn
-da:abberrant_eye, Aberrant Mana
-da:flame_metal_scrap, Flame Metal Scrap
-da:dark_mana, Roh Void Mana
-da:dark_core, Roh Void Core
-da:crypt_plate, Dark Metal Plate
-da:knight_shard, Stormvier Shard
-da:knight_ingot, Stormvier Ingot
-da:lightning_shard, Lithic Shard
-da:lightning_ingot, Lithic Ingot
-da:ancient_mana, Ancient Anima
-da:incendium_core, Incendium Core
-da:volatile_orb, Volactile Pearl
-da:red_ancient_mana, Inflamed Ancient Anima
-da:frost_shard, Wyrk Shard
-da:frost_ingot, Wyrk Crystal
-da:draugr_shard, Frostborn Shard
-da:draugr_ingot, Frostborn Ingot
-da:great_wyrk_mana, Ancient Wyrk Anima
-da:light_mana, Divine Mana
-da:divine_scroll, Divine Scroll
-da:divine_metal, Divine Metal Scrap
-da:dragon_scale, High Dragon Scales
-da:crystal_fruit, Crystal Fruit
-da:spore_blossom, Void Blossom
-da:moss_block, Moss Block
-da:moss_carpet, Moss Carpet
-da:aza_vines, Azalea Vines
-da:aza_vines_berries, Azalea Vines with Berries
-da:azaela_leaf, Azalea Leaves
-da:strong_block, Flower Spawning Block
-da:mega_structure, Mega Structure Block
-da:az_fence, Vine Wall
-da:fire_stone, Fiery Stonebrick
-da:chisled_fire_stone, Fiery Chiseled Stonebrick
-da:fire_stone_lit, Fiery Lit Stonebrick
-da:fire_stone_stairs, Fiery Stonebrick Stairs
-da:fire_stone_wall, Fiery Stonebrick Wall
-da:mossy_spruce, Mossy Spruce Planks
-da:knight_stone, Stormvier Decoration Block
-da:knight_key_block, Rotten Hold Boss Key Block
-da:frost_key_block, Frozen Castle Key Block
-da:sky_key_block, High Court City Dungeon Block
-da:gloom_stone, Petrogloom Cobblestone
-da:cold_stone, Chilled Petrogloom Cobblestone
-da:gloom_brick, Petrogloom Bricks
-da:cold_brick, Chilled Petrogloom Brick
-da:snow_cold_brick, Snowy Chilled Petrogloom Bricks
-da:city_brick, Farum Bricks
-da:farum_stone,  Farum Stone
-da:city_brick_alt, Farum Road Bricks
-da:city_decoration, Farum Decorium
-da:city_chisled, Chiseled Farum Decorium
-da:city_tile, Farum Tiled Bricks
-da:city_smooth, Polished Farum Stone
-da:city_pillar, Faurm Pillar
-da:city_pillar_chisled, Chiseled Farum Pillar
-da:gold_city_brick, Gilded Farum Bricks
-da:gloom_smooth, Smooth Petrogloom
-da:cold_smooth, Smooth Chilled Petrogloom
-da:gloom_carved, Carved Petrogloom
-da:cold_carved, Chilled Carved Petrogloom
-da:gloom_pillar, Petrogloom Pillar
-da:cold_pillar, Chilled Petrogloom Pillar
-da:gloom_rough, Petrogloom
-da:cold_rough, Chilled Petrogloom
-da:gloom_triangle, Petrogloom Decoration Stone
-da:cold_triangle, Chilled Petrogloom Decoration Stone
-da:gloom_stone_stairs, Petrogloom Cobblestone Stairs
-da:cold_stone_stairs, Chilled Petrogloom Cobblestone Stairs
-da:gloom_brick_stairs, Petrogloom Brick Stairs
-da:cold_brick_stairs, Chilled Petrogloom Brick Stairs
-da:gloom_smooth_stairs, Smooth Petrogloom Stairs
-da:cold_smooth_stairs, Smooth Chilled Petrogloom Stairs
-da:city_brick_stairs, Farum Brick Stairs
-da:city_brick_stairs_alt, Farum Road Brick Stairs
-da:city_tile_stairs, Faurm Tiled Brick Stairs
-da:gold_city_brick_stairs, Gilded Farum Brick Stairs
-da:city_brick_half:0, Faurm Brick Slab
-da:city_brick_alt_half:0, Farum Road Brick Slab
-da:city_tile_half:0, Farum Tiled Brick Slab
-da:gold_city_brick_half:0, Gilded Farum Brick Slab
-da:gloom_stone_half:0, Petrogloom Cobblestone Slab
-da:cold_stone_half:0, Chilled Petrogloom Cobblestone Slab
-da:gloom_smooth_half:0, Smooth Petrogloom Slab
-da:cold_smooth_half:0, Smooth Chilled Petrogloom Slab
-da:gloom_brick_half:0, Petrogloom Brick Slab
-da:cold_brick_half:0, Chilled Petrogloom Brick Slab
-da:gloom_stone_wall, Petrogloom Cobblestone Wall
-da:cold_stone_wall, Chilled Petrogloom Cobblestone Wall
-da:gloom_smooth_wall, Smooth Petrogloom Wall
-da:cold_smooth_wall, Smooth Chilled Petrogloom Wall
-da:gloom_brick_wall, Petrogloom Brick Wall
-da:cold_brick_wall, Chilled Petrogloom Brick Wall
-da:city_brick_wall, Farum Brick Wall
-da:city_brick_wall_alt, Farum Brick Road Wall
-da:city_tile_wall, Farum Tiled Wall
-da:city_smooth_wall, Polished Farum Stone Wall
-da:gold_city_brick_wall, Gilded Farum Brick Wall
-da:farum_rope, Farum Rope
-da:farum_lantern, Farum Lantern
-da:frost_icicle, Frozen Icicle
-da:soul_star_block, Chiseled Stone Altar Block
-da:void_lily, Void Lily
-da:fire_stone_half:0, Fiery Stonebrick Slab
-da:change_block, Red Netherbrick Door
-da:levitation_block, Levitation Altar
-da:cave_spawner, Boss Spawner
-da:moss_spawner, Mossy Disappearing Spawner Block
-da:high_spawner, High Court City Disappearing Spawner
-da:glow_berry, Glow Berries
-da:enflamed_meat, Inflamed Meat
-da:wyrk_snack, The Survivor's Endless Hunger
-da:crumble_berries, Crumble Berries
-da:endless_enderpearl, Charged Ender Pearl
-da:sealed_flame, Sealed Flame Bottle
-da:wyrk_totem, Wyrk Elemental Totem
-da:king_aid, King's Aid
-da:ambition_flame, Flame of Ambition
-da:dark_locator, Cult of Roh Eye
-da:frost_locator, Frozen Soul Star
-da:flame_locator, Spark of Ambition
-da:soul_star_item, Soul Star
-da:sky_locator, Orb of Light
-da:knight_key, Rotten Hold Dungeon Key
-da:frost_key, Frozen Castle Dungeon Key
-da:lightning_key, High Court City Dungeon Key
-da:void_dagger, Void Dagger
-da:dark_dagger, Roh Void Dagger
-da:knight_rapier, Stormvier Rapier
-da:frost_sword, Frostborn Sword
-da:champion_axe, Axe of the Frostborn Champion
-da:draugr_shield, Frostborn Shield
-da:flame_shield, Incendium Shield
-da:dark_shield, item.dark_shield.name
-da:dragon_shield, item.dragon_shield.name
-da:flame_blade, Ambitious Flame Blade
-da:ambition_sword, Greatsword of Ambition
-da:dark_sicle, Dark Metal Sickle
-da:spear_staff, Spear of the Soulless Mage
-da:spear_weapon, Spear of the Soulless Warrior
-da:imperial_halberd_item, The Prosperous Assault
-da:imperial_sword_item, Master Parry Sword
-da:wyrk_staff, Ancient Wyrk Staff
-da:dragon_bow, Dragon Scourage Bow
-da:sword_spear, Divine Sword Spear
-da:sword_spear_blood, Bloodied Sword Spear
-da:king_claw, Lithic Clawed Glove
-da:sky_arrow:0, Golden Tracking Arrow
-da:draugr_helmet, Frostborn Helmet
-da:draugr_chestplate, Frostborn Chestplate
-da:wyrk_helmet, Ancient Wyrk Helmet
-da:wyrk_boots, Ancient Wyrk Boots
-da:incendium_helmet, Incendium Helmet
-da:incendium_leggings, Incendium Leggings
-da:flame_helmet, Flame Metal Helmet
-da:flame_chestplate, Flame Metal Chestplate
-da:flame_leggings, Flame Metal Leggings
-da:flame_boots, Flame Metal Boots
-da:lich_helmet, Crown of the Soulless
-da:dark_metal_helmet, Dark Metal Helmet
-da:dark_metal_chestplate, Dark Metal Chestplate
-da:dark_metal_leggings, Dark Metal Leggings
-da:dark_metal_boots, Dark Metal Boots
-da:imperial_helmet, Lithic Helmet
-da:imperial_chestplate, Lithic Chestplate
-da:imperial_leggings, Lithic Leggings
-da:imperial_boots, Lithic Boots
-da:king_helmet, Crown of the Cursed
-da:invisible, Invisible
-da:void_leaf, Void Leaf
-da:spore, Void Blossom Spore
-da:magic_fireball, Magic Fireball
-da:light_ring, Lightning Ring
-da:storm_tornado, Storm Tornado
-da:holy_wave, Holy Wave
-da:blood_ball, Blood Ball
-da:proj_flame_blade, Flame Blade Projectile
-da:invisible_item, item.invisible_item.name
-da:projectile_flame, Ambitious Flame
-da:fake_healing_potion, Fake Healing Potion(Creative Only)
-da:magic_projectile, Magic Projectile
-da:sky_locator_proj, Light Projectile
-da:missile_projectile, Magic Tracking Projectile
-da:frost_bullet, Frost Bullet
-da:fake_bow, item.fake_bow.name
-da:bomd_mod_logo, BOMD + DA Mod Logo
 ee:end_info_book, Guide to the End
 ee:key, Lamented End Key
 ee:ash_key, Ash End Key
@@ -8503,7 +8422,7 @@ ee:mod_arrow_chomper, Chomper Arrow
 ee:bomb_proj, Avalon Projectile
 ee:green_orb, Barrend Projectile
 ee:parasitebomb, Charged Parasite Bomb
-ee:invisible, Invisible
+ee:invisible, Invisible Item
 ee:crystalball, Crystal Ball
 ee:spinsword, Thousand Swords
 ee:lamented_end_stone, Lamented End Stone
@@ -8584,6 +8503,21 @@ ee:door_on, Ashed Key Activated
 ee:lighting_updater, tile.lighting_updater.name
 ee:disappearing_spawner, Disappearing Spawner
 ee:ash_spawner, Disappearing Spawner Ash
+magiadaemonica:chalk, Chalk
+magiadaemonica:chalk_stairs, Chalk Stairs
+magiadaemonica:flower, tile.magiadaemonica.flower.name
+magiadaemonica:scented_candle, Scented Candle
+magiadaemonica:chalk_slab:0, Chalk Slab
+magiadaemonica:chalk_stick, Chalk Stick
+magiadaemonica:food:0, Beef Suet
+magiadaemonica:food:1, Tallow
+magiadaemonica:sica_infernalem, Sica Infernalem
+magiadaemonica:peccatum_primordiale, Peccatum Primordiale
+magiadaemonica:creta_aeterna, Creta Aeterna
+magiadaemonica:calix_perpetuus, Calix Perpetuus
+magiadaemonica:mors_larva, Mors Larva
+magiadaemonica:facies_excoriata, Facies Excoriata
+magiadaemonica:oculus_aethereus, Oculus Aethereus
 mekanism:electricbow, Electric Bow
 mekanism:canteen, Canteen
 mekanism:dust:0, Iron Dust
@@ -9208,6 +9142,7 @@ mekanism:machineblock4:10, Hybrid Storage (WIP)
 mekanism:machineblock4:11, Modification Station
 mekanism:machineblock4:12, Radioactive Waste Barrel
 mekanism:machineblock4:13, Supercritical Phase Shifter
+mekanism:superfumo, Super FuMo
 mekanismgenerators:solarpanel, Solar Panel
 mekanismgenerators:hohlraum, Hohlraum
 mekanismgenerators:turbineblade, Turbine Blade
@@ -9232,6 +9167,16 @@ mekanismgenerators:reactor:2, Reactor Port
 mekanismgenerators:reactor:3, Reactor Logic Adapter
 mekanismgenerators:reactorglass:0, Reactor Glass
 mekanismgenerators:reactorglass:1, Laser Focus Matrix
+mekanismmultiblockmachine:gas_adsorption_fractionation_module, Gas Cleaning Module
+mekanismmultiblockmachine:high_frequency_fusion_molding_module, Plasma nozzle module
+mekanismmultiblockmachine:laserlenses, Laser Lenses
+mekanismmultiblockmachine:advanced_electrolysis_core, Advanced electrolysis core
+mekanismmultiblockmachine:largeelectrolyticseparator, Large Electrolytic Separator
+mekanismmultiblockmachine:largechemicalinfuser, Large Chemical Infuser
+mekanismmultiblockmachine:largechemicalwasher, Large Chemical Washer
+mekanismmultiblockmachine:largewindgenerator, Large Wind Generator
+mekanismmultiblockmachine:largegasgenerator, Large Gas-Burning Generator
+mekanismmultiblockmachine:largesolarneutronactivator, Large Solar Neutron Activator
 mekanismtools:woodpaxel, Wood Paxel
 mekanismtools:stonepaxel, Stone Paxel
 mekanismtools:ironpaxel, Iron Paxel
@@ -9303,15 +9248,6 @@ mekanismtools:steelchestplate, Steel Chestplate
 mekanismtools:steelleggings, Steel Leggings
 mekanismtools:steelboots, Steel Boots
 mekanismtools:steelshield, Steel Shield
-mekanismmultiblockmachine:gas_adsorption_fractionation_module, Gas Cleaning Module
-mekanismmultiblockmachine:high_frequency_fusion_molding_module, Plasma nozzle module
-mekanismmultiblockmachine:laserlenses, Laser Lenses
-mekanismmultiblockmachine:advanced_electrolysis_core, Advanced electrolysis core
-mekanismmultiblockmachine:largeelectrolyticseparator, Large Electrolytic Separator
-mekanismmultiblockmachine:largechemicalinfuser, Large Chemical Infuser
-mekanismmultiblockmachine:largechemicalwasher, Large Chemical Washer
-mekanismmultiblockmachine:largewindgenerator, Large Wind Generator
-mekanismmultiblockmachine:largegasgenerator, Large Gas-Burning Generator
 mimicfish:esca, Esca
 mimicfish:anglerfish_egg, Lunkertooth Egg
 naturescompass:naturescompass, Nature's Compass
@@ -9378,35 +9314,6 @@ nb:black_bricks_slab_half:0, Blackstone Bricks Slab
 nb:polished_black_stone_slab_half:0, Polished Blackstone Slab
 nb:crimson_slab_half:0, Crimson Slab
 nb:warped_slab_half:0, Warped Slab
-oe:turtle_helmet, Turtle Shell
-oe:trident, Trident
-oe:turtle_scute, Scute
-oe:barnacle_shells, Barnacle Shells
-oe:nautilus_shell, Nautilus Shell
-oe:heart_of_the_sea, Heart of the Sea
-oe:pearl, Pearl
-oe:conch, Conch
-oe:magic_conch, Magic Conch
-oe:charm, Conduit Charm
-oe:glow_ink_sac, Glow Ink Sac
-oe:glow_item_frame, Glow Item Frame
-oe:bleak, Bleak Mulch
-oe:sponge_chunk, Sponge Chunk
-oe:sponge_chunk_wet, Damp Sponge Chunk
-oe:crab, Raw Crab
-oe:cooked_crab, Cooked Crab
-oe:crab_bisque, Crab Bisque
-oe:crustacean_shell, Crustacean Shell
-oe:lobster, Raw Lobster
-oe:cooked_lobster, Cooked Lobster
-oe:lobster_bisque, Lobster Bisque
-oe:blue_slime_ball, Tropical Slimeball
-oe:coconut_open, Cracked Coconut
-oe:dried_kelp, Dried Kelp
-oe:dried_dulse, Dried Dulse
-oe:palm_boat, Palm Boat
-oe:spawn_bucket, Bucket of %s
-oe:heavy_boots, Heavy Boots
 oe:guardian_spike, Guardian Spike
 oe:sea_pickle, Sea Pickle
 oe:turtle_egg, Turtle Egg
@@ -9480,6 +9387,35 @@ oe:shell_sand, Shelly Sand
 oe:tube_sponge, Tube Sponge
 oe:underwater_tnt, Underwater TNT
 oe:underwater_torch, Underwater Torch
+oe:turtle_helmet, Turtle Shell
+oe:trident, Trident
+oe:turtle_scute, Scute
+oe:barnacle_shells, Barnacle Shells
+oe:nautilus_shell, Nautilus Shell
+oe:heart_of_the_sea, Heart of the Sea
+oe:pearl, Pearl
+oe:conch, Conch
+oe:magic_conch, Magic Conch
+oe:charm, Conduit Charm
+oe:glow_ink_sac, Glow Ink Sac
+oe:glow_item_frame, Glow Item Frame
+oe:bleak, Bleak Mulch
+oe:sponge_chunk, Sponge Chunk
+oe:sponge_chunk_wet, Damp Sponge Chunk
+oe:crab, Raw Crab
+oe:cooked_crab, Cooked Crab
+oe:crab_bisque, Crab Bisque
+oe:crustacean_shell, Crustacean Shell
+oe:lobster, Raw Lobster
+oe:cooked_lobster, Cooked Lobster
+oe:lobster_bisque, Lobster Bisque
+oe:blue_slime_ball, Tropical Slimeball
+oe:coconut_open, Cracked Coconut
+oe:dried_kelp, Dried Kelp
+oe:dried_dulse, Dried Dulse
+oe:palm_boat, Palm Boat
+oe:spawn_bucket, Bucket of %s
+oe:heavy_boots, Heavy Boots
 raids:ominous_bottle:0, Ominous Bottle
 raids:ominous_bottle:1, Ominous Bottle
 raids:ominous_bottle:2, Ominous Bottle
@@ -9700,7 +9636,44 @@ rats:rat_upgrade_combined, Rat Upgrade: Combined
 rats:rat_upgrade_combined_creative, Rat Upgrade: Combined(Creative)
 rats:rat_nugget, Rat §o"Nugget"
 rats:rat_nugget_ore, %s§o"Nugget"
-db:invisible, Invisible
+techrot:bio_extractor, Genome Extractor
+techrot:bio_cube, Small Rot Cube
+techrot:bio_chunk, Rot Chunk
+techrot:comp_agony_synapse, Agony Synapse
+techrot:comp_necrotic_coil, Necrotic Coil
+techrot:comp_screaming_core, Screaming Core
+techrot:comp_unstable, Collapsing Anguish Node
+techrot:rotplate, Rotplate
+techrot:rotplate_head1, Rotpiercer Skullplate
+techrot:rotplate_chest1, Pneumic Reactor
+techrot:rotplate_arm1, Torq-Rot Arm
+techrot:rotplate_chest2, Seraphic Blight-Propulsor
+techrot:toxiclauncher, Caustic Howitzerr
+techrot:rotclaws, Rotrend Talon
+techrot:toxic_canister, Fume Canister
+techrot:toxic_canister_empty, Empty Fume Canister
+techrot:meat_horse, Raw Horse Meat
+techrot:meat_wolf, Raw Wolf Meat
+techrot:biocube_block, Rot Cube
+techrot:rotplate_block, Rotplate Block
+techrot:rotplate_sectioned_block, Sectioned Rotplate Block
+techrot:rotplate_pattern_block, Patterned Rotplate Block
+techrot:rotplate_solid_block, Dense Rotplate Block
+techrot:rotplate_ore, Rotplate Ore
+techrot:bioimplanter, Implant Chamber
+techrot:biofurnace, Rot Furnace
+techrot:lit_biofurnace, tile.lit_biofurnace.name
+techrot:biopastemaker, Rot Paste Maker
+techrot:lit_biopastemaker, tile.lit_biopastemaker.name
+techrot:biopipe, Transport Pipe
+techrot:bioeggmaker, Egg Maker
+techrot:lit_bioeggmaker, tile.lit_bioeggmaker.name
+techrot:biofleshcloner, Flesh Cloner
+techrot:lit_biofleshcloner, tile.lit_biofleshcloner.name
+techrot:rotting_soil, Rotting Soil
+techrot:defiled_earth, Defiled Earth
+techrot:sentient_earth, Sentient Earth
+db:invisible, Invisible Item
 db:orb, Eldritch Orb
 db:staff, Staff of the Forgotten
 db:disappearing_spawner, Disappearing Spawner
@@ -9717,49 +9690,450 @@ db:temple_brick_stairs, Temple Brick Stairs
 db:temple_brick_slab_half:0, Temple Brick Slab
 db:temple_pillar, Temple Pillar
 db:temple_cobble_slab_half:0, Temple Cobblestone Slab
-toroquest:artifact_black, §eAncient Artifact§r
-toroquest:artifact_blue, §eAncient Artifact§r
-toroquest:artifact_red, §eAncient Artifact§r
-toroquest:toro_armor_boots, Heavy Leather Boots
-toroquest:toro_armor_leggings, Heavy Leather Leggings
-toroquest:toro_armor_helmet, Heavy Leather Helmet
-toroquest:toro_armor_chestplate, Heavy Leather Chestplate
+toroquest:bandit_helmet, Bandit Mask
+toroquest:trophy_titan, §6Nose of the Grave Titan§r
 toroquest:royal_helmet, §eRoyal Crown§r
+toroquest:scroll_wind:0, item.null.name
+toroquest:scroll_sun:0, item.null.name
+toroquest:lord_reply, item.lord_reply.name
+toroquest:artifact_black, §eAncient Artifact§r
+toroquest:trophy_spider, §6Pedipalp of the Spider Queen§r
+toroquest:trophy, item.trophy.name
+toroquest:scroll_earth:0, item.null.name
+toroquest:ender_idol, §bEnder Idol§r
+toroquest:artifact_brown, §eAncient Artifact§r
+toroquest:toro_leather, Heavy Leather
+toroquest:dwarven_artifact, §6Dwarven Alternator§r
+toroquest:legendary_bandit_helmet, §6Mask of the Bandit Boss§r
+toroquest:scroll_moon:0, item.null.name
+toroquest:artifact_yellow, §eAncient Artifact§r
+toroquest:artifact_red, §eAncient Artifact§r
+toroquest:scroll_fire:0, item.null.name
+toroquest:city_key, Key to the City
+toroquest:lord_note, Note
+toroquest:trophy_beholder, §6Eye of the Obsidian Horror§r
+toroquest:scroll_null:0, item.null.name
+toroquest:scroll_water:0, item.null.name
+toroquest:trophy_pig, §6Heart of the Demon-Pig§r
+toroquest:artifact_green, §eAncient Artifact§r
+toroquest:recruitment_papers, Recruitment Papers
 toroquest:samurai_boots, Samurai Skirt
 toroquest:samurai_leggings, Samurai Leggings
 toroquest:samurai_helmet, Samurai Helmet
 toroquest:samurai_chestplate, Samurai Chestplate
-toroquest:lord_note, Note
-toroquest:scroll_moon:0, item.null.name
-toroquest:lord_reply, item.lord_reply.name
-toroquest:ender_idol, §bEnder Idol§r
-toroquest:scroll_null:0, item.null.name
-toroquest:artifact_brown, §eAncient Artifact§r
-toroquest:trophy_spider, §6Pedipalp of the Spider Queen§r
-toroquest:toro_leather, Heavy Leather
-toroquest:recruitment_papers, Recruitment Papers
-toroquest:artifact_green, §eAncient Artifact§r
-toroquest:bandit_helmet, Bandit Mask
-toroquest:trophy_skeleton, §6Fang of the Vampire Lord§r
-toroquest:trophy_beholder, §6Eye of the Obsidian Horror§r
-toroquest:trophy, item.trophy.name
-toroquest:trophy_pig, §6Heart of the Demon-Pig§r
-toroquest:artifact_yellow, §eAncient Artifact§r
 toroquest:royalblock, tile.toroquest.royalblock.name
-toroquest:city_key, Key to the City
-toroquest:scroll_wind:0, item.null.name
-toroquest:dwarven_artifact, §6Dwarven Alternator§r
-toroquest:legendary_bandit_helmet, §6Mask of the Bandit Boss§r
-toroquest:trophy_titan, §6Nose of the Grave Titan§r
-toroquest:scroll_fire:0, item.null.name
-toroquest:scroll_sun:0, item.null.name
-toroquest:scroll_earth:0, item.null.name
-toroquest:scroll_water:0, item.null.name
+toroquest:artifact_blue, §eAncient Artifact§r
+toroquest:trophy_skeleton, §6Fang of the Vampire Lord§r
+toroquest:toro_armor_boots, Heavy Leather Boots
+toroquest:toro_armor_leggings, Heavy Leather Leggings
+toroquest:toro_armor_helmet, Heavy Leather Helmet
+toroquest:toro_armor_chestplate, Heavy Leather Chestplate
 toroquest:trophy_archmage, §6Staff of the Archmage§r
+totf:grave_rose, Grave Rose
+totf:rune_of_skimming, Rune of Skimming
+totf:goblin_idol, Goblin Idol
+totf:ward_of_blades, Ward of Blades
+totf:pemmican, Pemmican
+totf:painting_in_the_woods, In the Woods
+totf:painting_portrait, Portrait
+totf:painting_the_bloodcurling, The Bloodcurling
+totf:painting_wheel, Wheel
+totf:painting_wizardry, Wizardry
+totf:mysterious_fur, Mysterious Fur
+totf:silk_rope, Silk Rope
+totf:silk_spindle, Silk Spindle
+totf:bundle_of_lost_letters, Bundle of Lost Letters
+totf:veiled_mask, Veiled Mask
+totf:wheel, Wheel
+totf:wonder_fertilizer, Wonder Fertilizer
+totf:old_world_tinkers_kit, Old World Tinker's Kit
+totf:lost_cargo, Lost Cargo
+totf:skeleton_crate, Skeleton with crate
+totf:lost_crate_potions, Lost Cargo Potions
+totf:bush_crate, Crate with Bush
+totf:stone_circle, Stone Circle
+totf:grave_marker, Grave Marker
+totf:rose, Rose
+totf:tent, Tent
+totf:tent_abandoned, Abandoned Tent
+totf:tent_abandoned_idol, Abandoned Tent with Idol
+totf:armillary, Armillary
+da:copper_coin, Copper Trader Coin
+da:silver_coin, Silver Trader Coin
+da:golden_coin, Golden Trader Coin
+da:knight_shard, Stormvier Shard
+da:knight_ingot, Stormvier Ingot
+da:void_thorns, Void Thorn
+da:adventure_metal, Adventuric Ingot
+da:magic_leather, Magic Imbued Leather
+da:dark_mana, Roh Void Mana
+da:dark_core, Roh Void Core
+da:crypt_plate, Dark Metal Plate
+da:red_ancient_mana, Inflamed Ancient Anima
+da:frost_shard, Wyrk Shard
+da:frost_ingot, Wyrk Crystal
+da:draugr_shard, Frostborn Shard
+da:draugr_ingot, Frostborn Ingot
+da:great_wyrk_mana, Ancient Wyrk Anima
+da:beetle_shell, Scutter Chitin
+da:aegyptia_metal, Aegyptia Metal Shard
+da:aegyptia_bone, Aegyptia Bone
+da:aegyptia_metal_ingot, Aegyptia Metal Ingot
+da:gladiator_idol, Idol of the Gladiator
+da:colossus_bone, Ancient Bone
+da:warlord_crystal, Ancient Crystalized Mana
+da:incendium_core, Incendium Core
+da:volatile_orb, Volactile Pearl
+da:abberrant_eye, Aberrant Mana
+da:flame_metal_scrap, Flame Metal Scrap
+da:ancient_mana, Ancient Anima
+da:novik_plate, Novik Metal Plate
+da:sentinel_part, Sentinel Remains
+da:gaelon_shard, Gaelon Shard
+da:gaelon_ingot, Gaelon Ingot
+da:unbridled_soul, Unbridled Soul
+da:voidiant_core, Voidiant Core
+da:obsdian_heart, Obsidian Heart
+da:voidclysm_crystal, Voidclysm Crystal
+da:light_mana, Divine Mana
+da:lightning_shard, Lithic Shard
+da:lightning_ingot, Lithic Ingot
+da:divine_scroll, Divine Scroll
+da:divine_metal, Divine Metal Scrap
+da:dragon_scale, High Dragon Scales
+da:dungeon_bread, Dungeon Bread
+da:crystal_fruit, Crystal Fruit
+da:spore_blossom, Void Blossom
+da:moss_block, Moss Block
+da:dungeon_brick, Dungeon Stone Bricks
+da:mossy_dungeon_brick, Mossy Dungeon Stone Bricks
+da:moss_carpet, Moss Carpet
+da:aza_vines, Azalea Vines
+da:aza_vines_berries, Azalea Vines with Berries
+da:azaela_leaf, Azalea Leaves
+da:strong_block, Flower Spawning Block
+da:mega_structure, Mega Structure Block
+da:az_fence, Vine Wall
+da:darkglow_bars, Darkglow Bars
+da:fire_stone, Fiery Stonebrick
+da:chisled_fire_stone, Fiery Chiseled Stonebrick
+da:fire_stone_lit, Fiery Lit Stonebrick
+da:fire_stone_stairs, Fiery Stonebrick Stairs
+da:fire_stone_wall, Fiery Stonebrick Wall
+da:mossy_spruce, Mossy Spruce Planks
+da:knight_stone, Stormvier Decoration Block
+da:knight_key_block, Rotten Hold Boss Key Block
+da:frost_key_block, Frozen Castle Key Block
+da:aegyptian_spawner, Skull of the Past
+da:obsidian_end_frame, Obsidian End Frame
+da:sky_key_block, High Court City Dungeon Block
+da:boss_resummon, Soul Altar
+da:stormvier_block, Block of Stormvier Metal
+da:adventure_block, Block of Adventuric Metal
+da:frostborn_block, Block of Frostborn Metal
+da:aegyptia_block, Block of Aegyptian Metal
+da:crypt_block, Block of Dark Metal
+da:novik_block, Block of Novik Metal
+da:litic_block, Block of Lithic Metal
+da:gloom_stone, Petrogloom Cobblestone
+da:cold_stone, Chilled Petrogloom Cobblestone
+da:gloom_brick, Petrogloom Bricks
+da:cold_brick, Chilled Petrogloom Brick
+da:cold_brick_lamp, Chilled Petrogloom Lamp
+da:snow_cold_brick, Snowy Chilled Petrogloom Bricks
+da:city_brick, Farum Bricks
+da:farum_stone,  Farum Stone
+da:city_brick_alt, Farum Road Bricks
+da:city_decoration, Farum Decorium
+da:city_chisled, Chiseled Farum Decorium
+da:city_tile, Farum Tiled Bricks
+da:city_smooth, Polished Farum Stone
+da:city_pillar, Farum Pillar
+da:city_pillar_chisled, Chiseled Farum Pillar
+da:gold_city_brick, Gilded Farum Bricks
+da:grum_brick, Grum Bricks
+da:coralite, Coralite
+da:coralite_brick, Coralite Stonebricks
+da:grum_chisled, Chiseled Grum Stone
+da:grum_stone, Grum Stone
+da:grum_smooth, Smooth Grum Stone
+da:grum_tile, Tiled Grum Bricks
+da:grum_chisled_tile, Chiseled Tiled Grum Bricks
+da:darkglow_stonebricks, Darkglow Stone Bricks
+da:darkglow_bricks, Darkglow Bricks
+da:darkglow_decoration_bricks, Darkglow Decorium Bricks
+da:darkglow_tile, Darkglow Stone Tiles
+da:darkglow_lit_bricks, Lit Darkglow Bricks
+da:darkglow_lit_decoration_bricks, Lit Darkglow Decorium Bricks
+da:gaelon_crystal, Gaelon Crystal
+da:gaelon_chunk, Gaelon Cluster
+da:alfera_planks, Alfera Planks
+da:alfera_planks_rod, Studded Alfera Planks
+da:alfera_crate, Alfera Crate
+da:obsidilith_rune, Obsidilith Rune
+da:fake_obsidian, Obsidilith Rune Point
+da:gloom_smooth, Smooth Petrogloom
+da:cold_smooth, Smooth Chilled Petrogloom
+da:gloom_carved, Carved Petrogloom
+da:cold_carved, Chilled Carved Petrogloom
+da:gloom_pillar, Petrogloom Pillar
+da:cold_pillar, Chilled Petrogloom Pillar
+da:grum_pillar, Grum Pillar
+da:darkglow_pillar, Darkglow Pillar
+da:darkglow_pillar_lit, Darkglow Light Pillar
+da:darkglow_pillar_eye, Darkglow Protector Eye
+da:dark_brick, Darglow Stone Brick
+da:gloom_rough, Petrogloom
+da:cold_rough, Chilled Petrogloom
+da:gloom_triangle, Petrogloom Decoration Stone
+da:cold_triangle, Chilled Petrogloom Decoration Stone
+da:gloom_stone_stairs, Petrogloom Cobblestone Stairs
+da:cold_stone_stairs, Chilled Petrogloom Cobblestone Stairs
+da:gloom_brick_stairs, Petrogloom Brick Stairs
+da:cold_brick_stairs, Chilled Petrogloom Brick Stairs
+da:gloom_smooth_stairs, Smooth Petrogloom Stairs
+da:cold_smooth_stairs, Smooth Chilled Petrogloom Stairs
+da:city_brick_stairs, Farum Brick Stairs
+da:city_brick_stairs_alt, Farum Road Brick Stairs
+da:city_tile_stairs, Farum Tiled Brick Stairs
+da:gold_city_brick_stairs, Gilded Farum Brick Stairs
+da:grum_brick_stairs, Grum Brick Stairs
+da:dungeon_brick_stairs, Dungeon Stone Brick Stairs
+da:darkglow_stonebrick_stairs, Darkglow Stone Brick Stairs
+da:darkglow_brick_stairs, Darkglow Brick Stairs
+da:city_brick_half:0, Farum Brick Slab
+da:city_brick_alt_half:0, Farum Road Brick Slab
+da:city_tile_half:0, Farum Tiled Brick Slab
+da:gold_city_brick_half:0, Gilded Farum Brick Slab
+da:gloom_stone_half:0, Petrogloom Cobblestone Slab
+da:cold_stone_half:0, Chilled Petrogloom Cobblestone Slab
+da:gloom_smooth_half:0, Smooth Petrogloom Slab
+da:cold_smooth_half:0, Smooth Chilled Petrogloom Slab
+da:gloom_brick_half:0, Petrogloom Brick Slab
+da:fire_stone_half:0, Fiery Stonebrick Slab
+da:cold_brick_half:0, Chilled Petrogloom Brick Slab
+da:grum_brick_half:0, Grum Brick Slab
+da:dungeon_brick_half:0, Dungeon Stone Brick Slab
+da:darkglow_stonebrick_half:0, Darkglow Stone Brick Slab
+da:darkglow_brick_half:0, Darkglow Brick Slab
+da:gloom_stone_wall, Petrogloom Cobblestone Wall
+da:cold_stone_wall, Chilled Petrogloom Cobblestone Wall
+da:gloom_smooth_wall, Smooth Petrogloom Wall
+da:cold_smooth_wall, Smooth Chilled Petrogloom Wall
+da:gloom_brick_wall, Petrogloom Brick Wall
+da:cold_brick_wall, Chilled Petrogloom Brick Wall
+da:city_brick_wall, Farum Brick Wall
+da:city_brick_wall_alt, Farum Brick Road Wall
+da:city_tile_wall, Farum Tiled Wall
+da:city_smooth_wall, Polished Farum Stone Wall
+da:gold_city_brick_wall, Gilded Farum Brick Wall
+da:grum_brick_wall, Grum Brick Wall
+da:dungeon_brick_wall, Dungeon Stone Brick Wall
+da:darkglow_brick_wall, Darkglow Brick Wall
+da:darkglow_stonebrick_wall, Darkglow Stone Brick Wall
+da:farum_rope, Farum Rope
+da:farum_lantern, Farum Lantern
+da:frost_icicle, Frozen Icicle
+da:soul_star_block, Chiseled Stone Altar Block
+da:void_lily, Void Lily
+da:puzzle_mirror, Grum Ritual Lens
+da:grum_displacer, Grum Displacer Lens
+da:grum_dispenser, Grum Feuler Dispenser
+da:grum_blocker, Grum Sealing Eye Pot
+da:grum_tile_r, Grum Sealed Brick
+da:change_block, Red Netherbrick Door
+da:levitation_block, Levitation Altar
+da:cave_spawner, Boss Spawner
+da:moss_spawner, Mossy Disappearing Spawner Block
+da:high_spawner, High Court City Disappearing Spawner
+da:temple_spawner, Forgotten Temple Disappearing Spawner
+da:end_spawner, End Disappearing Spawner
+da:gaelon_spawner, Disappearing Gaelon Sanctuary Spawner
+da:glow_berry, Glow Berries
+da:beetle_morsel, Raw Beetle Morsel
+da:cooked_beetle_morsel, Cooked Beetle Morsel
+da:enflamed_meat, Inflamed Meat
+da:wyrk_snack, The Survivor's Endless Hunger
+da:crumble_berries, Crumble Berries
+da:endless_enderpearl, Charged Ender Pearl
+da:sealed_tornado, Sealed Tornado Bottle
+da:sealed_spear_wave, Sealed Spear Bottle
+da:sealed_flame, Sealed Flame Bottle
+da:poison_garnish, Poison Garnish
+da:fiery_respite, Fiery Respite
+da:golden_devotion, Golden Devotion
+da:golden_vow, Golden Vow
+da:crystal_trinket, Frozen Crystal
+da:glass_cannon_trinket, The Glass Cannon
+da:boots_trinket, Speed Runner
+da:flame_trinket, Flame's Rage
+da:death_trinket, Death's Prosper
+da:shield_trinket, Mythic Shield
+da:diamond_shield_trinket, Exalted Shield
+da:creeper_trinket, Creeper's Will
+da:charm_trinket, Magic Charm
+da:slam_trinket, Frozen Slam
+da:vampire_trinket, Vampiric
+da:heart_trinket, Vigorous Journey
+da:gamble_trinket, Chip of Fortunate
+da:poison_trinket, Poison Touch
+da:void_trinket, Void's Durability
+da:wind_trinket, Storm Calling
+da:weakness_trinket, Spiral Vain
+da:void_hand_trinket, Cult Classic
+da:confetti_trinket, Party Starter
+da:stalwart_summoner, Stalwart Summoner
+da:golden_mark_trinket, Golden Mark
+da:sigil_trinket, Golden Ritual
+da:magic_boost_trinket, Mana Reservoir
+da:arrow_trinket, Blood Stained Arrow
+da:wyrk_totem, Wyrk Elemental Totem
+da:call_to_arms, A Call to Arms
+da:aegyptian_flute, Aegyptian Flute
+da:king_aid, King's Aid
+da:rot_locator, Rotten Core
+da:frost_locator, Frozen Soul Star
+da:desert_locator, Desolate Trinket
+da:dark_locator, Cult of Roh Eye
+da:flame_locator, Spark of Ambition
+da:gaelon_locator, Mysterious Artifact
+da:obsidian_locator, Call of the Void
+da:soul_star_item, Soul Star
+da:sky_locator, Orb of Light
+da:knight_key, Rotten Hold Dungeon Key
+da:frost_key, Frozen Castle Dungeon Key
+da:aegyptian_key, Aegyptia Soul Key
+da:ambition_flame, Flame of Ambition
+da:apathyr_heart, Heart of the Apathyr
+da:golden_apathyr_heart, Golden heart of the Apathyr
+da:obsidian_eye, Obsidian Eye
+da:lightning_key, High Court City Dungeon Key
+da:soul_key, Key of Souls
+da:draugr_shield, Frostborn Shield
+da:everator_shield, item.everator_shield.name
+da:flame_shield, Incendium Shield
+da:dark_shield, item.dark_shield.name
+da:obsidian_shield, Obsidilith's Shield
+da:dragon_shield, Dragon Scourage Shield
+da:void_dagger, Void Dagger
+da:dark_dagger, Roh Void Dagger
+da:knight_rapier, Stormvier Rapier
+da:adventure_sword, Adventuric Sword
+da:frost_sword, Frostborn Sword
+da:champion_axe, Axe of the Frostborn Champion
+da:kopis, Aegyptian Kopis
+da:exalted_kopis, Exalted Kopis
+da:colossus_mace, Colossal Mace
+da:flame_blade, Ambitious Flame Blade
+da:ambition_sword, Greatsword of Ambition
+da:novik_sword, Novik Sword
+da:apathyr_axe, The Midnight Reign
+da:dark_sicle, Dark Metal Sickle
+da:void_hammer, Voidclystic Hammer
+da:spear_staff, Spear of the Soulless Mage
+da:spear_weapon, Spear of the Soulless Warrior
+da:imperial_halberd_item, The Prosperous Assault
+da:imperial_sword_item, Master Parry Sword
+da:sword_spear, Divine Sword Spear
+da:sword_spear_blood, Bloodied Sword Spear
+da:king_claw, Lithic Clawed Glove
+da:mage_staff, Spellcaster Combat Wand
+da:wyrk_staff, Ancient Wyrk Staff
+da:golem_cannon, Sentinel Cannon
+da:voidiant_catalyst, Voidiant Catalyst
+da:void_staff, Voidclystic Staff
+da:dragon_bow, Dragon Scourage Bow
+da:sky_arrow:0, Golden Tracking Arrow
+da:adventure_helmet, Adventuric Helmet
+da:adventure_chestplate, Adventuric Chestplate
+da:adventure_leggings, Adventuric Leggings
+da:adventure_boots, Adventuric Boots
+da:mage_helmet, Spellcaster Hat
+da:mage_chestplate, Spellcaster Chestplate
+da:mage_leggings, Spellcaster Leggings
+da:mage_boots, Spellcaster Boots
+da:flower_crown, Void Blossom's Crown
+da:warlord_helmet, Ancient Warlord Helmet
+da:colossus_chestplate, Ancient Colossal Chestplate
+da:draugr_helmet, Frostborn Helmet
+da:draugr_chestplate, Frostborn Chestplate
+da:wyrk_helmet, Ancient Wyrk Helmet
+da:wyrk_boots, Ancient Wyrk Boots
+da:incendium_helmet, Incendium Helmet
+da:incendium_leggings, Incendium Leggings
+da:flame_helmet, Flame Metal Helmet
+da:flame_chestplate, Flame Metal Chestplate
+da:flame_leggings, Flame Metal Leggings
+da:flame_boots, Flame Metal Boots
+da:novik_helmet, Novik Helmet
+da:novik_chestplate, Novik Chestplate
+da:novik_leggings, Novik Leggings
+da:novik_boots, Novik Boots
+da:apathyr_helmet, Apathyr's Helmet
+da:voidiant_chestplate, Voidiant Chestplate
+da:obsidian_helm, Voidic Helmet
+da:lich_helmet, Crown of the Soulless
+da:dark_metal_helmet, Dark Metal Helmet
+da:dark_metal_chestplate, Dark Metal Chestplate
+da:dark_metal_leggings, Dark Metal Leggings
+da:dark_metal_boots, Dark Metal Boots
+da:imperial_helmet, Lithic Helmet
+da:imperial_chestplate, Lithic Chestplate
+da:imperial_leggings, Lithic Leggings
+da:imperial_boots, Lithic Boots
+da:king_helmet, Crown of the Cursed
+da:invisible, Invisible Item
+da:void_leaf, Void Leaf
+da:spore, Void Blossom Spore
+da:magic_fireball, Magic Fireball
+da:light_ring, Lightning Ring
+da:storm_tornado, Storm Tornado
+da:voidclysm_bolt, Voidclysm Bolt
+da:holy_wave, Holy Wave
+da:blood_ball, Blood Ball
+da:proj_flame_blade, Flame Blade Projectile
+da:desert_storm, Desert Storm Projectile
+da:yellow_wave, Yellow Wave Projectile
+da:crystal_wave, Crystal Wave Projectile
+da:ghost_bolt, Gaelon Ghost Projectile
+da:fast_crystal, Fast Ghost Crystal
+da:invisible_item, item.invisible_item.name
+da:projectile_flame, Ambitious Flame
+da:void_projectile, item.void_projectile.name
+da:fake_healing_potion, Fake Healing Potion(Creative Only)
+da:magic_projectile, Magic Projectile
+da:sky_locator_proj, Light Projectile
+da:missile_projectile, Magic Tracking Projectile
+da:frost_bullet, Frost Bullet
+da:fake_bow, item.fake_bow.name
+da:trader_bag, Mysterious Trader Bag
+da:desert_locator_projectile, Forgotten Temple Locator Projectile
+da:desert_projectile, Warlord's Projectile
+da:bomd_mod_logo, BOMD + DA Mod Logo
 vaultopic:vault_searcher, Vault Searcher
 vaultopic:view_small, V.I.E.W. (Vaultopic Inventory Explorer Workbot)
 vaultopic:view_big, V.I.E.W. X (Vaultopic Inventory Explorer Workbot eXtended)
 vaultopic:vice, V.I.C.E. (Vaultopic Item Crafting Entity)
+veilings:false_fetus, False Fetus
+veilings:veiling_essence, Veiling Essence
+veilings:veiling_weave, Veiling Weave
+veilings:calling_bell, Calling Bell
+veilings:veiling_tiramisu, Veiling Tiramisu
+veilings:impresario_silk, Impresario Silk
+veilings:nail_nodie, Undying Nail
+veilings:nail_nomult, Viscous Nail
+veilings:nail_nowicked, Stabilizing Nail
+veilings:command_sceptre, Command Sceptre
+veilings:spirit_dagger, Spirit Dagger
+veilings:mask_deft, Veiling Deft Mask
+veilings:mask_custodian, Veiling Custodian Mask
+veilings:mask_dramatist, Veiling Dramatist Mask
+veilings:veiling_outfit_armor, Veiling Armor Outfit
+veilings:veiling_outfit_jester, Veiling Jester Outfit
+veilings:veiling_outfit_maid, Veiling Maid Outfit
+veilings:veiling_outfit_poncho, Veiling Poncho Outfit
+veilings:veiling_outfit_vest, Veiling Vest Outfit
+veilings:veiling_outfit_wraps, Veiling Wraps Outfit
 waystones:waystone, Waystone
 waystones:return_scroll, Return Scroll
 waystones:bound_scroll, Bound Scroll
@@ -12191,13 +12565,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Fission Core Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Fusion Casing
 chiselsandbits:block_bit:0, Chiseled Bit - Fusion Core Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Wet Sand
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Lit Redstone Lamp
-chiselsandbits:block_bit:0, Chiseled Bit - Blaze Lantern
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Red Sandstone
@@ -12331,6 +12698,13 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brown Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Green Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Red Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Black Quilted Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Lit Redstone Lamp
+chiselsandbits:block_bit:0, Chiseled Bit - Blaze Lantern
 chiselsandbits:block_bit:0, Chiseled Bit - Ender Biotite Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Biotite
 chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Biotite Block
@@ -12432,6 +12806,10 @@ chiselsandbits:block_bit:0, Chiseled Bit - Biomass Block
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Livingmetal
 chiselsandbits:block_bit:0, Chiseled Bit - Bloodweave Cloth
 chiselsandbits:block_bit:0, Chiseled Bit - Soulweave Cloth
+chiselsandbits:block_bit:0, Chiseled Bit - Ferment Stonebricks
+chiselsandbits:block_bit:0, Chiseled Bit - Ferment Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Ferment Smooth Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Extended Manus Altar
 chiselsandbits:block_bit:0, Chiseled Bit - Amethyst Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Copper Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Ruby Ore
@@ -12474,37 +12852,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Dreadstone Tile
 chiselsandbits:block_bit:0, Chiseled Bit - Dreadstone Chiseled Skull South
 chiselsandbits:block_bit:0, Chiseled Bit - Dreadwood Planks
 chiselsandbits:block_bit:0, Chiseled Bit - Dreadwood Keyhole
-chiselsandbits:block_bit:0, Chiseled Bit - Cracked Dragonforge Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Moss Block
-chiselsandbits:block_bit:0, Chiseled Bit - Fiery Stonebrick
-chiselsandbits:block_bit:0, Chiseled Bit - Fiery Chiseled Stonebrick
-chiselsandbits:block_bit:0, Chiseled Bit - Fiery Lit Stonebrick
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Stormvier Decoration Block
-chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Brick
-chiselsandbits:block_bit:0, Chiseled Bit - Farum Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Farum Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Farum Road Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Farum Decorium
-chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Farum Decorium
-chiselsandbits:block_bit:0, Chiseled Bit - Farum Tiled Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Polished Farum Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Faurm Pillar Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Farum Pillar Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Gilded Farum Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Smooth Petrogloom
-chiselsandbits:block_bit:0, Chiseled Bit - Smooth Chilled Petrogloom
-chiselsandbits:block_bit:0, Chiseled Bit - Carved Petrogloom Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Chilled Carved Petrogloom Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom Pillar Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Pillar Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom
-chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom
-chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom Decoration Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Decoration Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Lamented End Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Pure Crystal Block
 chiselsandbits:block_bit:0, Chiseled Bit - Lustrian Crystal Block
@@ -12531,6 +12878,7 @@ chiselsandbits:block_bit:0, Chiseled Bit - Barrend Smooth Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Barrend Gate Connector
 chiselsandbits:block_bit:0, Chiseled Bit - Barrend Log Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Barrend Log Hole Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Chalk
 chiselsandbits:block_bit:0, Chiseled Bit - Osmium Block East
 chiselsandbits:block_bit:0, Chiseled Bit - Bronze Block East
 chiselsandbits:block_bit:0, Chiseled Bit - Refined Obsidian East
@@ -12695,6 +13043,12 @@ chiselsandbits:block_bit:0, Chiseled Bit - Ratlantean Automaton Core
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Ratglove South
 chiselsandbits:block_bit:0, Chiseled Bit - Brain Block South
 chiselsandbits:block_bit:0, Chiseled Bit - Jack O' Ratern South
+chiselsandbits:block_bit:0, Chiseled Bit - Rot Cube
+chiselsandbits:block_bit:0, Chiseled Bit - Rotplate Block
+chiselsandbits:block_bit:0, Chiseled Bit - Sectioned Rotplate Block
+chiselsandbits:block_bit:0, Chiseled Bit - Patterned Rotplate Block
+chiselsandbits:block_bit:0, Chiseled Bit - Dense Rotplate Block
+chiselsandbits:block_bit:0, Chiseled Bit - Rotplate Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Temple Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Temple Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Temple Cobblestone
@@ -12702,6 +13056,67 @@ chiselsandbits:block_bit:0, Chiseled Bit - Temple Chiseled Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Golden Chiseled Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Golden Temple Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Temple Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Block
+chiselsandbits:block_bit:0, Chiseled Bit - Dungeon Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Mossy Dungeon Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Fiery Stonebrick
+chiselsandbits:block_bit:0, Chiseled Bit - Fiery Chiseled Stonebrick
+chiselsandbits:block_bit:0, Chiseled Bit - Fiery Lit Stonebrick
+chiselsandbits:block_bit:0, Chiseled Bit - Mossy Spruce Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Stormvier Decoration Block
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Stormvier Metal
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Adventuric Metal
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Frostborn Metal
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Aegyptian Metal
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Dark Metal
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Novik Metal
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Lithic Metal
+chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Lamp
+chiselsandbits:block_bit:0, Chiseled Bit - Farum Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Farum Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Farum Road Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Farum Decorium
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Farum Decorium
+chiselsandbits:block_bit:0, Chiseled Bit - Farum Tiled Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Farum Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Farum Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Farum Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Gilded Farum Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Grum Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Coralite
+chiselsandbits:block_bit:0, Chiseled Bit - Coralite Stonebricks
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Grum Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Grum Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Smooth Grum Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Tiled Grum Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Tiled Grum Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Darkglow Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Darkglow Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Darkglow Decorium Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Darkglow Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Lit Darkglow Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Lit Darkglow Decorium Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Alfera Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Studded Alfera Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Alfera Crate
+chiselsandbits:block_bit:0, Chiseled Bit - Smooth Petrogloom
+chiselsandbits:block_bit:0, Chiseled Bit - Smooth Chilled Petrogloom
+chiselsandbits:block_bit:0, Chiseled Bit - Carved Petrogloom Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Chilled Carved Petrogloom Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Grum Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Darkglow Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Darglow Stone Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom
+chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom
+chiselsandbits:block_bit:0, Chiseled Bit - Petrogloom Decoration Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Chilled Petrogloom Decoration Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Grum Sealed Brick
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Barrend Goop
