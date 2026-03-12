@@ -1,0 +1,102 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 106
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 409d83b3-4687-45fc-9c7e-3fe7e6a6f08a1773332314501
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 278
+  action = deep_customization_element:title_screen_branding
+  actionid = 07d63e7f-36b4-42b3-afa5-b38b5fdf76d41773332314502
+  y = 259
+  height = 70
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = e8ac5ec0-52ee-486b-b8a6-8e916b236adf1773332314502
+  y = 311
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 01d7ac88-d4ef-45ab-82b2-4ff538cb3d9f1773332314502
+  y = 167
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = c6c7c2a3-e71d-4719-af46-f0e0674795071773332314502
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 84ee5aed-2ce4-4f91-82c6-f4111d7dfbe31773332314502
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Modernized 1.12: Ultimate Edition%n%is licensed under the MIT License.
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 2
+  width = 172
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = a69e7d9a-babe-4786-9c27-5c3771271b791773332937258
+  y = -24
+  alignment = left
+  height = 22
+}
+
