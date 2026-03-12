@@ -40,3 +40,4 @@ config/chiselsandbits_clipboard.cfg
 config/spark/activity.json
 config/AppliedEnergistics2/CustomRecipes.cfg
 config/AppliedEnergistics2/items.csv
+config/splash.properties
