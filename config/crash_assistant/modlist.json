@@ -292,6 +292,13 @@
     "curseForgeHash": 3815092490,
     "modrinthHash": "3e91a89f9196469c5c195ad8377696a3d6511f8b"
   },
+  "BuildingGadgets-2.8.4.jar": {
+    "jarName": "BuildingGadgets-2.8.4.jar",
+    "modId": "buildinggadgets",
+    "version": "2.8.4",
+    "curseForgeHash": 1053424356,
+    "modrinthHash": "7f33f2343bf0af70d5d853378d465657beea3740"
+  },
   "carryon-1.12.2-1.12.7.23.jar": {
     "jarName": "carryon-1.12.2-1.12.7.23.jar",
     "modId": "carryon",
@@ -579,6 +586,34 @@
     "curseForgeHash": 634389787,
     "modrinthHash": "bf9c4b0a068711c8e3c8a0f679861081f418cb36"
   },
+  "FTBBackups-1.1.0.1.jar": {
+    "jarName": "FTBBackups-1.1.0.1.jar",
+    "modId": "ftbbackups",
+    "version": "1.1.0.1",
+    "curseForgeHash": 752442057,
+    "modrinthHash": "20ddf96ff380f1f3219305f2efc6742ab5999449"
+  },
+  "FTBLib-5.4.7.2.jar": {
+    "jarName": "FTBLib-5.4.7.2.jar",
+    "modId": "ftblib",
+    "version": "5.4.7.2",
+    "curseForgeHash": 957833589,
+    "modrinthHash": "7c20cd223bc2334edf153e074f35acdbcab3c976"
+  },
+  "FTBQuests-1202.9.0.15.jar": {
+    "jarName": "FTBQuests-1202.9.0.15.jar",
+    "modId": "ftbquests",
+    "version": "1202.9.0.15",
+    "curseForgeHash": 3872032973,
+    "modrinthHash": "03413411b820e0fb91f36013aa5954dde3bc85e9"
+  },
+  "FTBUtilities-5.4.1.131.jar": {
+    "jarName": "FTBUtilities-5.4.1.131.jar",
+    "modId": "ftbutilities",
+    "version": "5.4.1.131",
+    "curseForgeHash": 679359278,
+    "modrinthHash": "d1f6545ac58ad895f2c8bcd0d4963d92f14b1938"
+  },
   "FullscreenWindowed-1.12-1.6.0.jar": {
     "jarName": "FullscreenWindowed-1.12-1.6.0.jar",
     "modId": "fw",
@@ -724,6 +759,13 @@
     "version": "1.12.2-0.1.2",
     "curseForgeHash": 1322243374,
     "modrinthHash": "043e99d22cfe8d080ff020068723fec84a01508c"
+  },
+  "ItemFilters-1.0.4.2.jar": {
+    "jarName": "ItemFilters-1.0.4.2.jar",
+    "modId": "itemfilters",
+    "version": "1.0.4.2",
+    "curseForgeHash": 771895873,
+    "modrinthHash": "6b6560aea35c6e0e8a550ea7044501412b0fb335"
   },
   "Jade-0.1.0.jar": {
     "jarName": "Jade-0.1.0.jar",
@@ -953,6 +995,11 @@
     "curseForgeHash": 632494130,
     "modrinthHash": "86b6cd29e92179711dbe7931c0c3503f3dd949d3"
   },
+  "omocha-1.1.01.jar": {
+    "jarName": "omocha-1.1.01.jar",
+    "curseForgeHash": 252655348,
+    "modrinthHash": "09f8bca05fc8df426c8b19dea2945afeeb29e932"
+  },
   "OptiFine_1.12.2_HD_U_G6_pre1.jar": {
     "jarName": "OptiFine_1.12.2_HD_U_G6_pre1.jar",
     "curseForgeHash": 811513880,
@@ -1054,12 +1101,12 @@
     "curseForgeHash": 1506416041,
     "modrinthHash": "d350f7ff036ea864d4347607ca10e902e9fd124c"
   },
-  "random_complement-1.8.9.jar": {
-    "jarName": "random_complement-1.8.9.jar",
+  "random_complement-1.9.0.jar": {
+    "jarName": "random_complement-1.9.0.jar",
     "modId": "random_complement",
-    "version": "1.8.9",
-    "curseForgeHash": 3398478029,
-    "modrinthHash": "a238376515e3d79b1a0cc5bf355cf38d96f9b1ba"
+    "version": "1.9.0",
+    "curseForgeHash": 2173960769,
+    "modrinthHash": "693e42c8987cdc05ece7740f2e93471bf168cb2d"
   },
   "RandomTweaker-1.4.10.jar": {
     "jarName": "RandomTweaker-1.4.10.jar",
@@ -1102,6 +1149,13 @@
     "version": "1.4.5",
     "curseForgeHash": 97899486,
     "modrinthHash": "da121ecfd63ea615de9a26276614bb0ab9306d95"
+  },
+  "Retro-Sophisticated-Backpacks-1.1.1.jar": {
+    "jarName": "Retro-Sophisticated-Backpacks-1.1.1.jar",
+    "modId": "retro_sophisticated_backpacks",
+    "version": "1.1.1",
+    "curseForgeHash": 3521091811,
+    "modrinthHash": "127cec9f0b942e3f4a41e831c2f022725722e6ae"
   },
   "RLFoliage-MC1.12-2.5.3.jar": {
     "jarName": "RLFoliage-MC1.12-2.5.3.jar",
