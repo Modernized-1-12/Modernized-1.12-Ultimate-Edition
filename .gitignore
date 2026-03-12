@@ -38,3 +38,5 @@ config/normalasm/methods-stable_39.csv
 config/chiselsandbits_clipboard.cfg
 /ESM
 config/spark/activity.json
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/items.csv
