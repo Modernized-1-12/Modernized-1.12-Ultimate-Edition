@@ -25,6 +25,8 @@ servers.dat
 icon.png
 time.history
 /profileImage
+hei_bookmarks.ini
+/backups
 
 #Modernized-specific
 mods/Nether-API-v1.3.0-mc1.12.2.jar

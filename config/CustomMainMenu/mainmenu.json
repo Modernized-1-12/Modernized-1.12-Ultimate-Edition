@@ -96,8 +96,9 @@
 
 		"refresh": {
 			"text": "",
-			"posX": 105,
-			"posY": 132,
+            "tooltip": "§7§oRefresh CMM Configuration§r",
+			"posX": -124,
+			"posY": 96,
 			"width": 20,
 			"height": 20,
 			"texture": "custommainmenu:textures/gui/buttons.png",
