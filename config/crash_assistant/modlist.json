@@ -44,12 +44,12 @@
     "curseForgeHash": 2660540505,
     "modrinthHash": "d272efd0c807908138edbac8e6cb2d90127ac01a"
   },
-  "+Fugue-0.23.2.jar": {
-    "jarName": "+Fugue-0.23.2.jar",
+  "+Fugue-0.23.3.jar": {
+    "jarName": "+Fugue-0.23.3.jar",
     "modId": "fugue",
-    "version": "0.23.2",
-    "curseForgeHash": 1717462198,
-    "modrinthHash": "af07026bfd1a3239350805b2e8a002f583983d7d"
+    "version": "0.23.3",
+    "curseForgeHash": 2455151293,
+    "modrinthHash": "988a18c12c24fe501b9d2bf3291d7242a0ce6530"
   },
   "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
     "jarName": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
@@ -390,6 +390,13 @@
     "curseForgeHash": 2918049805,
     "modrinthHash": "dae97e0a1539702b07ffa5e48410e57c470e3bd0"
   },
+  "CraftingTweaks_1.12.2-9.0.1.jar": {
+    "jarName": "CraftingTweaks_1.12.2-9.0.1.jar",
+    "modId": "craftingtweaks",
+    "version": "9.0.1",
+    "curseForgeHash": 3049934177,
+    "modrinthHash": "0185dcfe6dcf35723ef7b5e177838870d26349d4"
+  },
   "CraftTweaker2-1.12-4.1.20.711.jar": {
     "jarName": "CraftTweaker2-1.12-4.1.20.711.jar",
     "modId": "crafttweaker",
@@ -410,6 +417,13 @@
     "version": "MC1.12.2-1.0.2.31",
     "curseForgeHash": 1477774991,
     "modrinthHash": "892e0788531269bfa2f356e4e12825e19d4e5412"
+  },
+  "CustomMainMenu-MC1.12.2-2.0.9.1.jar": {
+    "jarName": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+    "modId": "custommainmenu",
+    "version": "2.0.9.1",
+    "curseForgeHash": 3526146934,
+    "modrinthHash": "9aad10a13bed75b6061a33219ab4f2f39e0ccc12"
   },
   "Deeper-Depths-1.12.2-1.1.1a.jar": {
     "jarName": "Deeper-Depths-1.12.2-1.1.1a.jar",
@@ -837,12 +851,19 @@
     "curseForgeHash": 4229284541,
     "modrinthHash": "fba97f9dbe750f17904c00db8ff58291595106b8"
   },
-  "loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar": {
-    "jarName": "loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar",
-    "modId": "loadmyresources",
-    "version": "1.0.4",
-    "curseForgeHash": 3562607931,
-    "modrinthHash": "a858ea488dcc2194715f1564f1b13a1382d047cc"
+  "Lootr Fixes-1.12.2-1.2.jar": {
+    "jarName": "Lootr Fixes-1.12.2-1.2.jar",
+    "modId": "lootrfix",
+    "version": "1.2",
+    "curseForgeHash": 2074608043,
+    "modrinthHash": "e17f1034ef23f22ef01d62fd4b6293b27326fb76"
+  },
+  "lootr-1.12.2-0.6.2.jar": {
+    "jarName": "lootr-1.12.2-0.6.2.jar",
+    "modId": "lootr",
+    "version": "0.6.2",
+    "curseForgeHash": 124616430,
+    "modrinthHash": "3d21562963b4cdffeb7b5361c54b5ac560e1708f"
   },
   "LootTweaker-0.5.1+MC1.12.2-DLS0.jar": {
     "jarName": "LootTweaker-0.5.1+MC1.12.2-DLS0.jar",
@@ -1149,6 +1170,20 @@
     "version": "1.4.5",
     "curseForgeHash": 97899486,
     "modrinthHash": "da121ecfd63ea615de9a26276614bb0ab9306d95"
+  },
+  "ResourceLoader-MC1.12.1-1.5.3.jar": {
+    "jarName": "ResourceLoader-MC1.12.1-1.5.3.jar",
+    "modId": "resourceloader",
+    "version": "1.5.3",
+    "curseForgeHash": 699442863,
+    "modrinthHash": "d8c10e6e29df5f9bc51e468642d9b3cae5f2f8e4"
+  },
+  "ResourceReloader-1.0.2.5.jar": {
+    "jarName": "ResourceReloader-1.0.2.5.jar",
+    "modId": "resourcereloader",
+    "version": "1.0.2.5",
+    "curseForgeHash": 2084754707,
+    "modrinthHash": "ad888f770d1c6e52bc4de2bbca22daf0801656d9"
   },
   "Retro-Sophisticated-Backpacks-1.1.1.jar": {
     "jarName": "Retro-Sophisticated-Backpacks-1.1.1.jar",
